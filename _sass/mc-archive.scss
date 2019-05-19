@@ -1,7 +1,5 @@
 // custom overrides to integrate with site theme
 #mc-archive {
-  --mc-link-color: #4fb1ba;
-
   // Override the builtin .hightlight since we're using it to avoid styling in the archives.
   table.highlight {
     margin-bottom: auto;

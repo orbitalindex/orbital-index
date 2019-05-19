@@ -1,1 +1,43 @@
 // You can add CSS rules here that will be inlined into each document.
+
+.sidebar-signup {
+  margin-top: 34px;
+}
+
+.index-header {
+  form {
+    margin-top: 10px;
+    margin-bottom: 14px;
+  }
+}
+
+.email-field {
+  border: 1px solid var(--border-color);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  margin-right: 9px;
+  padding: 0 5px;
+  width: 250px;
+  font-size: 17px;
+}
+
+.submit-button {
+  background-color: var(--mc-link-color);
+  border: 0 none;
+  border-radius: 4px;
+  transition: all 0.23s ease-in-out 0s;
+  color: #FFF;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: normal;
+  line-height: 32px;
+  margin: 0 5px 0 0;
+  padding: 0 16px;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: top;
+  white-space: nowrap;
+  width: auto;
+  font-size: 17px;
+}

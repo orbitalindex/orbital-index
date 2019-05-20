@@ -1,0 +1,38 @@
+---
+layout: base
+---
+<div class="message index-header">
+  <p>
+    The Orbital Index is a curated newsletter about space and the space industry.
+  </p>
+
+  <form action="https://orbitalindex.us20.list-manage.com/subscribe/post?u=e215b9e6f9a105b2c34f627a3&amp;id=de8318630a" method="post" novalidate="">
+    <input type="email" value="" placeholder="Enter your email address" name="EMAIL" class="email-field">
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e215b9e6f9a105b2c34f627a3_de8318630a" tabindex="-1" value=""></div>
+    <button name="subscribe" class="submit-button">Subscribe</button>
+  </form>
+
+  <p>
+    Here's an example of what you'll receive once a week. Past issues are available in the <a href="/archive/">archives</a>.
+  </p>
+</div>
+
+<div id="mc-archive">
+  <center>
+    {{ content }}
+  </center>
+</div>
+
+<div class="archive-nav">
+  <a class="prev" href="/archive/">&laquo; Archive</a>
+</div>
+
+<div id="subscribe-footer">
+  <header>
+    <p class="message">
+      Like this issue of The Orbital Index? Subscribe and get new issues every week. We take spam super seriously and won’t do anything except send you a newsletter about space.
+    </p>
+  </header>
+
+  {% include mc-subscribe.html %}
+</div>

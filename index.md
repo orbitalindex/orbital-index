@@ -1,5 +1,8 @@
 ---
 layout: index
+title: The Orbital Index
+cover: true
+image: /assets/icons/icon.png
 ---
 
 <!-- BEGIN TEMPLATE // -->
@@ -11,7 +14,7 @@ layout: index
 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer highlight" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;border: 0;max-width: 600px !important;">
     <tbody>
 <tr>
-        
+
     </tr>
     <tr>
         <td valign="top" id="templateHeader" style="background:var(--body-bg) none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: var(--body-bg);background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 6px;padding-bottom: 6px;"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock highlight" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
@@ -331,7 +334,7 @@ layout: index
 </td>
     </tr>
     <tr>
-        
+
     </tr>
 </tbody>
 </table>
@@ -341,4 +344,3 @@ layout: index
 </table>
 <![endif]-->
 <!-- // END TEMPLATE -->
-

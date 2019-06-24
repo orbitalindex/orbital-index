@@ -30,8 +30,8 @@ author1:
     # github:          qwtel/hydejack
     # download:        <url>
     # email:           <mail@domain.tld>
-    # rss:             https://<url>/feed.xml
     facebook:        orbitalindex
+    rss:             https://orbitalindex.com/feed.xml
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>

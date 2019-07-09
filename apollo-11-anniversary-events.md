@@ -7,6 +7,7 @@ All the events we could find. [Please submit new ones!](https://twitter.com/orbi
 <!-- Start TOC (do not remove me) -->
 
 * [Australia](#australia)
+* [Germany](#germany)
 * [UK](#uk)
 * [USA](#usa)
   * [Alabama](#alabama)
@@ -34,12 +35,17 @@ All the events we could find. [Please submit new ones!](https://twitter.com/orbi
 <!-- End TOC (do not remove me) -->
 
 
+
 <!-- Start Links (do not remove me) -->
 
 
 ## Australia
 
 * [Apollo 50th Anniversary Celebration](https://apollo11anniversary.jsaxon.org/anniversary-timeline/) in Canberra - Former Apollo workers have organized a 4-day event near NASA’s Canberra Deep Space Communication Complex.
+
+## Germany
+
+* [Filmnächte am Elbufer](https://dresden.filmnaechte.de/event/aufbruch-zum-mond/) in Dresden - Aufbruch zum Mond, 18. Juli
 
 ## UK
 
@@ -153,4 +159,5 @@ All the events we could find. [Please submit new ones!](https://twitter.com/orbi
 * [Wittman Regional Airport in Oshkosh](https://www.eaa.org/airventure/eaa-airventure-news-and-multimedia/eaa-airventure-news/eaa-airventure-oshkosh/04-02-2019-Astronaut-Michael-Collins-to-Highlight-Apollo-11-50th-Anniversary-at-AirVenture-2019) - The EAA convention will have Michael Collins speaking on July 26th.
 
 <!-- End Links (do not remove me) -->
+
 

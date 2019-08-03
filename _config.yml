@@ -54,6 +54,8 @@ menu:
     url:               /archive/
   - title:             About
     url:               /about/
+  - title:             Resource Directory
+    url:               https://github.com/orbitalindex/awesome-space
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if applicable), etc..

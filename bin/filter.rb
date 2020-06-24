@@ -53,7 +53,7 @@ def process(data, force_header: nil, format_for_frontpage: false)
   end
 
   # Strong areas are section titles and should have internal anchors for linking to them.
-  doc.css("p strong:nth-child(1)").each do |node|
+  doc.css("strong:nth-child(1)").each do |node|
     id = node.content.downcase.gsub(/[^a-z0-9-]+/, '-').gsub(/^-|-$/, '')
     node["id"] = id if id.length > 1
   end

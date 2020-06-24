@@ -1,0 +1,13 @@
+<script>
+  function hashHandler() {
+    if (window.location.hash) {
+      let elem = document.getElementById(window.location.hash.substring(1));
+      if (elem) {
+        elem.scrollIntoView(true);
+      }
+    }
+  }
+
+  document.getElementsByTagName('hy-push-state')[0].addEventListener('hy-push-state-after', hashHandler);
+  document.getElementsByTagName('hy-push-state')[0].addEventListener('hy-push-state-load', hashHandler);
+</script>

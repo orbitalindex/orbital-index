@@ -58,7 +58,9 @@ def process(data, force_header: nil, format_for_frontpage: false)
     node["id"] = id if id.length > 1
 
     if (format_for_frontpage == false)
-      anchor_link = "<a href=\"##{id}\" style=\"left: -20px; color: var(--menu-text); text-decoration: none;\">&para;</a>&nbsp;"
+      anchor_link = "<a href=\"##{id}\" style=\"position: absolute; left: -20px; color: var(--menu-text); text-decoration: none;\">&para;</a>"
+
+      node.parent[:style] = (node.parent[:style] || "") + "position: relative;"
       node.parent.prepend_child(anchor_link)
     end
   end

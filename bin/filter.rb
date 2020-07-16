@@ -56,6 +56,11 @@ def process(data, force_header: nil, format_for_frontpage: false)
   doc.css("strong:nth-child(1)").each do |node|
     id = node.content.downcase.gsub(/[^a-z0-9-]+/, '-').gsub(/^-|-$/, '')
     node["id"] = id if id.length > 1
+
+    if (format_for_frontpage == false)
+      anchor_link = "<a href=\"##{id}\" style=\"left: -20px; color: var(--menu-text); text-decoration: none;\">&para;</a>&nbsp;"
+      node.parent.prepend_child(anchor_link)
+    end
   end
 
   # Remove any footer and old subscribe regions.

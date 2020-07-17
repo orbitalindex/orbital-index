@@ -57,10 +57,10 @@ def process(data, force_header: nil, format_for_frontpage: false)
     id = node.content.downcase.gsub(/[^a-z0-9-]+/, '-').gsub(/^-|-$/, '')
     node["id"] = id if id.length > 1
 
-    if (format_for_frontpage == false)
+    if !format_for_frontpage
       anchor_link = "<a href=\"##{id}\" style=\"position: absolute; left: -20px; color: var(--menu-text); text-decoration: none;\">&para;</a>"
 
-      node.parent[:style] = (node.parent[:style] || "") + "position: relative;"
+      [node.parent[:style], "position: relative;"].compact.join(";").squeeze(";")
       node.parent.prepend_child(anchor_link)
     end
   end

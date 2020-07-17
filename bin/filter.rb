@@ -24,6 +24,13 @@ def process(data, force_header: nil, format_for_frontpage: false)
 
   doc = Nokogiri::HTML::DocumentFragment.parse(body)
 
+  # Grab footer image for social media previews
+  if !format_for_frontpage && header !~ /^image:/i
+    image = doc.css("img.mcnImage").last
+    image_url = image['src']
+    header = header + "image: #{image_url}\n"
+  end
+
   # Add 'highlight' class to tables because it bypasses our template's default formatting.
   doc.css("table").each do |node|
     node['class'] = (node['class'] || '') + ' highlight' unless (node['class'] || '') =~ /highlight/

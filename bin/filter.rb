@@ -60,7 +60,7 @@ def process(data, force_header: nil, format_for_frontpage: false)
     if !format_for_frontpage
       anchor_link = "<a href=\"##{id}\" style=\"position: absolute; left: -20px; color: var(--menu-text); text-decoration: none;\">&para;</a>"
 
-      [node.parent[:style], "position: relative;"].compact.join(";").squeeze(";")
+      node.parent[:style] = [node.parent[:style], "position: relative;"].compact.join(";").squeeze(";")
       node.parent.prepend_child(anchor_link)
     end
   end

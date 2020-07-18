@@ -60,15 +60,20 @@ def process(data, force_header: nil, format_for_frontpage: false)
   end
 
   # Strong areas are section titles and should have internal anchors for linking to them.
-  doc.css("strong:nth-child(1)").each do |node|
+  doc.css("a.para").each(&:remove)
+
+  doc.css("td > p > strong:nth-child(1)").each do |node|
     id = node.content.downcase.gsub(/[^a-z0-9-]+/, '-').gsub(/^-|-$/, '')
     node["id"] = id if id.length > 1
 
-    if !format_for_frontpage
-      anchor_link = "<a href=\"##{id}\" style=\"position: absolute; left: -20px; color: var(--menu-text); text-decoration: none;\">&para;</a>"
+    anchor_link = "<a href=\"##{id}\" style=\"position: absolute; left: -20px; color: var(--menu-text); text-decoration: none;\" class=\"para\">&para;</a>"
 
+    if !node.parent[:style] || node.parent[:style] !~ /position: relative/
       node.parent[:style] = [node.parent[:style], "position: relative;"].compact.join(";").squeeze(";")
-      node.parent.prepend_child(anchor_link)
+    end
+
+    unless format_for_frontpage
+      node.add_previous_sibling(anchor_link)
     end
   end
 

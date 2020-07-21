@@ -41,7 +41,7 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Orbital Index
+  name:                The Orbital Index
   email:               groundcontrol@orbitalindex.com
   # Used by `jekyll-seo-tag`:
   twitter:             orbitalindex

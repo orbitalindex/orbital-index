@@ -1,5 +1,5 @@
 ---
-# Featured tags need to have the `list` layout.
+# Featured tags need to have either the `list` or `grid` layout (PRO only).
 layout: list
 
 # The title of the tag's page.
@@ -15,4 +15,6 @@ description: >
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
 order: 2
+# (Optional) You can disable grouping posts by date.
+# no_groups: true
 ---

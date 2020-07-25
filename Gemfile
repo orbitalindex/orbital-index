@@ -18,6 +18,7 @@ gem "jekyll"
 group :jekyll_plugins do
   gem "jekyll-avatar"
   gem "jekyll-default-layout"
+  gem "jekyll-include-cache"
   gem "jekyll-feed"
   gem "jekyll-gist"
   gem "jekyll-optional-front-matter"

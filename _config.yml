@@ -54,6 +54,8 @@ menu:
     url:               /archive/
   - title:             About
     url:               /about/
+  - title:             Features
+    url:               /features/
   - title:             Resource Directory
     url:               https://github.com/orbitalindex/awesome-space
 
@@ -67,7 +69,7 @@ menu:
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
-  © 2019 The Orbital Index. All rights reserved.
+  © 2020 The Orbital Index. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/

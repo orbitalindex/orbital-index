@@ -54,8 +54,8 @@ menu:
     url:               /archive/
   - title:             About
     url:               /about/
-  - title:             Features
-    url:               /features/
+#  - title:             Features
+#    url:               /features/
   - title:             Resource Directory
     url:               https://github.com/orbitalindex/awesome-space
 

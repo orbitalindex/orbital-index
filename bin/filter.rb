@@ -59,6 +59,14 @@ def process(data, force_header: nil, format_for_frontpage: false)
     node['target'] = "_blank"
   end
 
+  # Guest contribution text blocks should have white backgrounds.
+  doc.css("table.mcnBoxedTextContentContainer.highlight td.mcnTextContent").each do |node|
+    if node['style'] !~ /background-color: white/
+      node['style'] = (node['style'] || '') + '; background-color: white;'
+      puts "  Adding white background to guest contribution header"
+    end
+  end
+
   # Strong areas are section titles and should have internal anchors for linking to them.
   doc.css("a.para").each(&:remove)
 

@@ -5,7 +5,9 @@ menu: true
 order: 4
 ---
 
-Since we couldn't find a comprehensive directory of NewSpace funding sources, we decided to make one. This open document has everything we have found so far, but is definitely not yet complete. [Please email us about resources we've missed](mailto:groundcontrol@orbitalindex.com) (or [submit a Pull Request on GitHub](https://github.com/orbitalindex/orbital-index))! ❤️
+We were looking for a directory of funding resources for NewSpace startups and couldn't find one. So we decided to start our own.
+
+This open document has everything we have found so far, but it is definitely not complete. [Please email us about resources we've missed](mailto:groundcontrol@orbitalindex.com) (or [submit a Pull Request on GitHub](https://github.com/orbitalindex/orbital-index))! ❤️
 
 > Items marked with a 🚀 are space-specific!
 

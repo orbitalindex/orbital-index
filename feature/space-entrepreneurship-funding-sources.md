@@ -5,11 +5,10 @@ menu: true
 order: 4
 ---
 
-We were looking for a directory of funding resources for NewSpace startups and couldn't find one. So we decided to start our own.
+*We were looking for a directory of funding resources for NewSpace startups and couldn't find one. So we decided to start our own.*
 
-This open document has everything we have found so far, but it is definitely not complete. [Please email us about resources we've missed](mailto:groundcontrol@orbitalindex.com) (or [submit a Pull Request on GitHub](https://github.com/orbitalindex/orbital-index))! ❤️
+This open document has everything we've found so far, but it is definitely not complete. [Please email us about resources we've missed](mailto:groundcontrol@orbitalindex.com) (or [submit a Pull Request on GitHub](https://github.com/orbitalindex/orbital-index))! ❤️
 
-> Items marked with a 🚀 are space-specific!
 
 Here's the funding source breakdown:
 
@@ -28,15 +27,21 @@ Here's the funding source breakdown:
 
 <!-- End TOC (do not remove me) -->
 
+> Items marked with a 🚀 are space-specific!
+
 <!-- Start Links (do not remove me) -->
 
-## Crowdfunding (for no equity)
+## Traditional Crowdfunding (no equity)
+
+*Traditional Crowdfunding has provided a way for some important space-related projects to get funding. Perhaps the most well known is [LightSail](https://www.kickstarter.com/projects/theplanetarysociety/lightsail-a-revolutionary-solar-sailing-spacecraft/description) which raised over $1.2M from backers on Kickstarter.*
 
 * [GoFundMe](https://www.gofundme.com/)
 * [Indiegogo](https://www.indiegogo.com/)
 * [Kickstarter](https://www.kickstarter.com/)
 
-## Crowd Investment (for small amounts of equity)
+## Equity Crowdfunding
+
+*Equity crowd funding is still in its infancy, but promises to democratize fundraising and allow projects and companies that wouldn't be a fit for traditional VC or government funding to appeal to enthusiasts from the wider population.*
 
 * Brazil
   * [Eqseed](https://eqseed.com/)
@@ -52,6 +57,8 @@ Here's the funding source breakdown:
   * [WeFunder](https://wefunder.com/)
 
 ## Angel Investment
+
+*Angel investors can provide early funding to startups. Angels are often the first money invested in a startup by an outside entity.*
 
 * EU
   * [Luxembourg Space Tech Angels](https://www.lsta.lu/) 🚀
@@ -70,6 +77,8 @@ Here's the funding source breakdown:
   * [Startup Angels](https://startupangels.com/)
 
 ## Incubator and Accelerator Programs
+
+*Incubators can provide an important space for early-stage startups to rapidly develop and iterate on their product and business model. In space, this can be particularly important since any projects need large amounts of capital which means the early formation of a solid business model and future product offering can be key to success with later fundraising efforts. Incubators are not all created equal however, and some may provide significantly more value in the form of experienced advisers, connections to VSs, and potential team members, while others may run all [incubees](https://getyarn.io/yarn-clip/19010e73-2f0f-412d-9df9-abee6a7b6240) through a cookie-cutter program that may or may not challenge the young company to mature.*
 
 * Worldwide
   * [Antler](https://www.antler.co/)
@@ -184,7 +193,7 @@ Here's the funding source breakdown:
   * [Catalyst Accelerator](https://catalystaccelerator.space/) 🚀
   * [Gothams](https://www.gothams.com/) 🚀
   * [NewSpace NYC](https://newspace.nyc/) 🚀
-  * [Nex Cubed](https://nex3.com/) 
+  * [Nex Cubed](https://nex3.com/)
   * [Space Ventures Coalition](https://www.alliancesocal.org/community/svc)
   * [Syndicate 708](https://www.syndicate708.com/)  
   * [USAF](https://www.afaccelerators.com/) 🚀
@@ -192,6 +201,8 @@ Here's the funding source breakdown:
   * [NFQ](https://www.nfq.asia/)
 
 ## Venture Capital
+
+*Venture Capital ranges from early stage seed-stage investors, to later-stage growth funds. Some later stage funds may even function more like [Private Equity](https://www.investopedia.com/articles/financial-careers/09/private-equity.asp) than traditional VC. Many VCs are looking for liquidity of their investment in 5-7 years, although space-focused VCs should be aware that the timeline for most space startups is significantly longer.*
 
 > We've attempted to only list VCs that mention space.
 
@@ -236,64 +247,70 @@ Here's the funding source breakdown:
 
 ## Government Entities & Foundations
 
-Items marked with a 🚀 are space-specific.
+*Governmental funding is a very common path for many in the space industry. It can sometimes prolong the research and development phase of a company's growth, but can also provide funding for high-risk projects that would never get funding from the VC world. Companies like SpaceX have utilized both private and governmental funding sources to great effect.*
 
 * Australia
-  * [SIAA](https://www.spaceindustry.com.au/)
+  * [SIAA](https://www.spaceindustry.com.au/) 🚀
 * India
-  * [India Space Research Organization](https://www.isro.gov.in/)
+  * [India Space Research Organization](https://www.isro.gov.in/) 🚀
 * Japan
-  * [JAXA](https://global.jaxa.jp/)
-  * [JSPARC](https://aerospacebiz.jaxa.jp/solution/j-sparc/)
+  * [JAXA](https://global.jaxa.jp/) 🚀
+  * [JSPARC](https://aerospacebiz.jaxa.jp/solution/j-sparc/) 🚀
 * New Zealand
   * [Callaghan Innovation](https://www.callaghaninnovation.govt.nz/)
 * US
   * NASA
-    * [NASA SBIRs](https://sbir.nasa.gov/)
-    * [NASA NextSTEP](https://www.nasa.gov/content/nextstep-overview) 
-    * [Startup NASA](https://technology.nasa.gov/startup)
+    * [NASA SBIRs](https://sbir.nasa.gov/) 🚀
+    * [NASA NextSTEP](https://www.nasa.gov/content/nextstep-overview) 🚀
+    * [Startup NASA](https://technology.nasa.gov/startup) 🚀
   * [Other US SBIRs](https://www.sbir.gov/) (DOD, DOE, etc.)
   * [Small Business Administration Loans & Grants](https://www.sba.gov/funding-programs)
-  * [Space Florida](https://www.spaceflorida.gov/)
+  * [Space Florida](https://www.spaceflorida.gov/) 🚀
 
 ## Other
 
 ### Research Funding
 
+*Research funding is closely related to governmental funding, but often targets at academic institutions.*
+
 * US
-  * [NASA research solicitations](https://nspires.nasaprs.com/external/)
-  * [NASA researcher funding info for the ISS](https://www.nasa.gov/mission_pages/station/research/ops/funding_information.html#.VO4qxvnF9qU)
-  * [Space Grants](https://www.nasa.gov/stem/spacegrant/about/index.html)
+  * [NASA research solicitations](https://nspires.nasaprs.com/external/) 🚀
+  * [NASA researcher funding info for the ISS](https://www.nasa.gov/mission_pages/station/research/ops/funding_information.html#.VO4qxvnF9qU) 🚀
+  * [Space Grants](https://www.nasa.gov/stem/spacegrant/about/index.html) 🚀
 * UK
   * [GOV.UK Innovation Funding Service](https://apply-for-innovation-funding.service.gov.uk/competition/search)
 * EU
-  * [ESA](https://business.esa.int/) 
-  * [Luxembourg Space Agency](https://space-agency.public.lu/en/funding/terms-of-participation.html) (Luxembourg)
+  * [ESA](https://business.esa.int/) 🚀
+  * [Luxembourg Space Agency](https://space-agency.public.lu/en/funding/terms-of-participation.html) 🚀
 
 ### Challenges / Hackathons
 
+*Challenges and Hackathons can often provide a place for the seed of an idea to gain initial vetting and garner some attention. Early teams can sometimes form at these events, or be given the initial validation they need to take the next step.*
+
 * Australia
-  * [Gravity Challenge](https://gravitychallenge.space/)
+  * [Gravity Challenge](https://gravitychallenge.space/) 🚀
 * New Zealand
-  * [NZ Aerospace Challenge](https://nzaerospacechallenge.com/)
+  * [NZ Aerospace Challenge](https://nzaerospacechallenge.com/) 🚀
 * US
   * [Air Force AFWERX Challenge](https://afwerxchallenge.com/)
-  * [GEN Space](https://www.genglobal.org/gen-space)
-  * [Mars City Design Challenge](https://www.marscitydesign.com/)
-  * [Newspace Business Plan Competition](https://cscf.space/newspace-bpc)
-  * [Space Apps Challenge 2020](https://www.spaceappschallenge.org/)
+  * [GEN Space](https://www.genglobal.org/gen-space) 🚀
+  * [Mars City Design Challenge](https://www.marscitydesign.com/) 🚀
+  * [Newspace Business Plan Competition](https://cscf.space/newspace-bpc) 🚀
+  * [Space Apps Challenge 2020](https://www.spaceappschallenge.org/) 🚀
 
 ### Conferences / Pitch Events
 
+*Much like challenges and hackathons, conferences and pitch events can often provide a place for an idea to garner some attention as well as potential customers and investors.*
+
 * US
-  * [IAC Pitch sessions](https://www.iac2019.org/)
-  * [MIT New Space Age Conference](http://newspaceage.org/) 
-  * [SATELLITE Conference & Exhibition](https://www.satshow.com/)
-  * [SmallSat](https://smallsat.org/)
-  * [Space Invest Summit](https://cscf.space/space-investment-summit)
-  * [Space Symposium](https://www.spacesymposium.org/)
-  * [Spacecom](https://spacecomexpo.com/)
-  * [TC Sessions: SPACE](https://techcrunch.com/events/tc-sessions-space-2020/) 
+  * [IAC Pitch sessions](https://www.iac2019.org/) 🚀
+  * [MIT New Space Age Conference](http://newspaceage.org/) 🚀
+  * [SATELLITE Conference & Exhibition](https://www.satshow.com/) 🚀
+  * [SmallSat](https://smallsat.org/) 🚀
+  * [Space Invest Summit](https://cscf.space/space-investment-summit) 🚀
+  * [Space Symposium](https://www.spacesymposium.org/) 🚀
+  * [Spacecom](https://spacecomexpo.com/) 🚀
+  * [TC Sessions: SPACE](https://techcrunch.com/events/tc-sessions-space-2020/) 🚀
 
 <!-- End Links (do not remove me) -->
 
@@ -301,4 +318,4 @@ Items marked with a 🚀 are space-specific.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [The Orbital Index](https://orbitalindex.com/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [The Orbital Index](https://orbitalindex.com/) and its contributors have waived all copyright and related or neighboring rights to this work.

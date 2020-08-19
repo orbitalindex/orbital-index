@@ -7,7 +7,7 @@ order: 4
 
 *We were looking for a directory of funding resources for space entrepreneurship and couldn't find one. So we decided to start our own.*
 
-This open document has everything we've found so far, but it is definitely not complete. [Please email us about resources we've missed](mailto:groundcontrol@orbitalindex.com) (or [submit a Pull Request on GitHub](https://github.com/orbitalindex/orbital-index))! ❤️
+This open document has everything we've found so far, but it is definitely not complete. [Please email us about resources we've missed](mailto:groundcontrol@orbitalindex.com) (or [submit a Pull Request on GitHub](https://github.com/orbitalindex/orbital-index/blob/master/feature/space-entrepreneurship-funding-sources.md))! ❤️
 
 Here's the funding source breakdown:
 

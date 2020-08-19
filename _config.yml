@@ -54,9 +54,9 @@ menu:
     url:               /archive/
   - title:             About
     url:               /about/
-#  - title:             Features
-#    url:               /features/
-  - title:             Resource Directory
+  - title:             Space Funding
+    url:               https://orbitalindex.com/feature/space-entrepreneurship-funding-sources
+  - title:             Open Source Space Resources
     url:               https://github.com/orbitalindex/awesome-space
 
 # Add links to the footer.

@@ -225,6 +225,7 @@ Items marked with a 🚀 are space-specific!
   * [Seraphim Capital](https://seraphimcapital.co.uk/) 🚀
 * US
   * [AME Cloud Ventures](https://www.amecloudventures.com/)
+  * [Bessemer Venture](https://www.bvp.com/)
   * [Darwin Ventures](https://www.darwinvc.com/)
   * [Data Collective](https://www.dcvc.com/about.html)
   * [Dcode](https://dcode.co/)
@@ -239,6 +240,7 @@ Items marked with a 🚀 are space-specific!
   * [Promus Ventures](http://www.promusventures.com/)
   * [SP8CEVS](https://www.sp8cevc.com/)
   * [Sharkaroo Orbital Ventures](https://www.sharkaroo.io/outer-space)
+  * [Space Capital](https://www.spacecapital.com/) 🚀
   * [SpaceFund](https://spacefund.com) 🚀
   * [Starbridge](https://www.starbridgevc.com/) 🚀
   * [Tremendous View Capital](https://tremendousview.capital/) 🚀

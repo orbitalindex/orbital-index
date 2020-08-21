@@ -263,7 +263,7 @@ Items marked with a 🚀 are space-specific!
     * [NASA SBIRs](https://sbir.nasa.gov/) 🚀
     * [NASA NextSTEP](https://www.nasa.gov/content/nextstep-overview) 🚀
     * [Startup NASA](https://technology.nasa.gov/startup) 🚀
-  * [NSF SBIRs](https://seedfund.nsf.gov/) - These are open-ended, so if you can demonstrate that your technology is risky and impactful, you have a shot. Many states want their companies to get grants, so they have helpful SBIR centers.
+  * [NSF SBIRs](https://seedfund.nsf.gov/) - These are open-ended, so if you can demonstrate that your technology is risky and impactful, you have a shot. Many states want their companies to get grants, so they have SBIR centers to help you.
   * [Other US SBIRs](https://www.sbir.gov/) (DOD, DOE, etc.)
   * [Small Business Administration Loans & Grants](https://www.sba.gov/funding-programs)
   * [Space Florida](https://www.spaceflorida.gov/) 🚀

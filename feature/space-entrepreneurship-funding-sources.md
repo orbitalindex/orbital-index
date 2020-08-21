@@ -49,7 +49,6 @@ Items marked with a 🚀 are space-specific!
 * New Zealand
   * [Snowball Effect](https://www.snowballeffect.co.nz/)
 * US
-  * [Karman](https://karman.app/) 🚀
   * [MicroVentures](https://microventures.com/)
   * [SeedInvest](https://www.seedinvest.com/)
   * [Spaced Ventures](https://www.spacedventures.com/) 🚀
@@ -192,6 +191,7 @@ Items marked with a 🚀 are space-specific!
   * [Catalyst Accelerator](https://catalystaccelerator.space/) 🚀
   * [Gothams](https://www.gothams.com/) 🚀
   * [NewSpace NYC](https://newspace.nyc/) 🚀
+  * [Techstars Starburst Space Accelerator](https://www.techstars.com/accelerators/starburst-space) (LA) 🚀
   * [Space Ventures Coalition](https://www.alliancesocal.org/community/svc)
   * [Syndicate 708](https://www.syndicate708.com/)  
   * [USAF](https://www.afaccelerators.com/) 🚀
@@ -263,6 +263,7 @@ Items marked with a 🚀 are space-specific!
     * [NASA SBIRs](https://sbir.nasa.gov/) 🚀
     * [NASA NextSTEP](https://www.nasa.gov/content/nextstep-overview) 🚀
     * [Startup NASA](https://technology.nasa.gov/startup) 🚀
+  * [NSF SBIRs](https://seedfund.nsf.gov/) - These are open-ended, so if you can demonstrate that your technology is risky and impactful, you have a shot. Many states want their companies to get grants, so they have helpful SBIR centers.
   * [Other US SBIRs](https://www.sbir.gov/) (DOD, DOE, etc.)
   * [Small Business Administration Loans & Grants](https://www.sba.gov/funding-programs)
   * [Space Florida](https://www.spaceflorida.gov/) 🚀

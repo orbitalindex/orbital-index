@@ -243,6 +243,7 @@ Items marked with a 🚀 are space-specific!
   * [Space Capital](https://www.spacecapital.com/) 🚀
   * [SpaceFund](https://spacefund.com) 🚀
   * [Starbridge](https://www.starbridgevc.com/) 🚀
+  * [Starburst Ventures](https://www.starburst.aero/ventures) 🚀
   * [Tremendous View Capital](https://tremendousview.capital/) 🚀
 
 ## Government Entities & Foundations

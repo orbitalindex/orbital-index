@@ -242,7 +242,7 @@ Items marked with a 🚀 are space-specific!
   * [Sharkaroo Orbital Ventures](https://www.sharkaroo.io/outer-space)
   * [Space Capital](https://www.spacecapital.com/) 🚀
   * [SpaceFund](https://spacefund.com) 🚀
-  * [Starbridge](https://www.starbridgevc.com/) 🚀
+  * [Starbridge](https://www.starbridgevc.com/) 🚀N
   * [Starburst Ventures](https://www.starburst.aero/ventures) 🚀
   * [Tremendous View Capital](https://tremendousview.capital/) 🚀
 

@@ -2,6 +2,7 @@
 layout: page
 title: Space Entrepreneurship Funding Sources
 image: "/assets/img/earth-funding.jpg"
+description: An extensive listing of potential funding sources for Space Startups and Entrepreneurs
 menu: true
 order: 4
 ---

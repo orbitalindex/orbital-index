@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Space Entrepreneurship Funding Sources
+image: "/assets/img/earth-funding.jpg"
 menu: true
 order: 4
 ---

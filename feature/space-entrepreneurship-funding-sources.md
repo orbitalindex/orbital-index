@@ -236,6 +236,7 @@ Items marked with a 🚀 are space-specific!
   * [Lockheed Martin](https://www.lockheedmartin.com/en-us/who-we-are/lockheed-martin-ventures.html) 🚀
   * [Lux Capital](https://luxcapital.com/)
   * [Marc Bell](https://marcbell.com/venture-capital/) 🚀
+  * [Noosphere Ventures](https://noosphereventures.com/) 🚀
   * [Out There Space](https://out-there.space/) 🚀
   * [Promus Ventures](http://www.promusventures.com/)
   * [SP8CEVS](https://www.sp8cevc.com/)

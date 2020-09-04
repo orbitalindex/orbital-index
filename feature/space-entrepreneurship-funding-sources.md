@@ -300,6 +300,7 @@ Items marked with a 🚀 are space-specific!
   * [Air Force AFWERX Challenge](https://afwerxchallenge.com/)
   * [GEN Space](https://www.genglobal.org/gen-space) 🚀
   * [Mars City Design Challenge](https://www.marscitydesign.com/) 🚀
+  * [NASA Solve](https://www.nasa.gov/solve) - A one-stop-shop for prizes and challenges offered by NASA 🚀
   * [Newspace Business Plan Competition](https://cscf.space/newspace-bpc) 🚀
   * [Space Apps Challenge 2020](https://www.spaceappschallenge.org/) 🚀
 

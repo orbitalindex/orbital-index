@@ -213,6 +213,7 @@ Items marked with a 🚀 are space-specific!
 * EU
   * [CosmiCapital](https://cosmicapital.com) 🚀
   * [Newspace Capital (Luxembourg)](https://www.newspace.capital/) 🚀
+  * [Noosphere Ventures](https://noosphereventures.com/) 🚀
   * [SpaceTec Capital (Germany)](https://www.spacetec.capital/) 🚀
 * India
   * [Paramparas](https://paramparas.com/)
@@ -296,6 +297,8 @@ Items marked with a 🚀 are space-specific!
   * [Gravity Challenge](https://gravitychallenge.space/) 🚀
 * New Zealand
   * [NZ Aerospace Challenge](https://nzaerospacechallenge.com/) 🚀
+* Ukraine
+  * [Vernadsky Challenge](https://vernadskychallenge.com/) 🚀
 * US
   * [Air Force AFWERX Challenge](https://afwerxchallenge.com/)
   * [GEN Space](https://www.genglobal.org/gen-space) 🚀
@@ -308,6 +311,8 @@ Items marked with a 🚀 are space-specific!
 
 *Much like challenges and hackathons, conferences and pitch events can provide validation and attention from potential customers and investors.*
 
+* Ukraine
+  * [Noosphere Space Summit](https://noospheresummit.space/home?lang=uk)
 * US
   * [IAC Pitch sessions](https://www.iac2019.org/) 🚀
   * [MIT New Space Age Conference](http://newspaceage.org/) 🚀

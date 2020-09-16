@@ -4,36 +4,37 @@ title: The Orbital Index
 cover: true
 image: /assets/icons/icon.png
 ---
-<!-- BEGIN TEMPLATE // -->
-                        <!--[if (gte mso 9)|(IE)]>
-                        <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
-                        <tr>
-                        <td align="center" valign="top" width="600" style="width:600px;">
-                        <![endif]-->
-                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer highlight" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;border: 0;max-width: 600px !important;">
-                            <tr>
-                                
-                            </tr>
-                            <tr>
-                                <td valign="top" id="templateHeader" style="background:var(--body-bg) none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: var(--body-bg);background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 6px;padding-bottom: 6px;"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock highlight" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnTextBlockOuter">
-        <tr>
-            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
 
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
-                    <tbody>
+<!-- BEGIN TEMPLATE // -->
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+<tr>
+<td align="center" valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer highlight" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;border: 0;max-width: 600px !important;">
+    <tr>
+        
+    </tr>
+    <tr>
+        <td valign="top" id="templateHeader" style="background:var(--body-bg) none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: var(--body-bg);background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 6px;padding-bottom: 6px;"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock highlight" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<!--[if mso]>
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+<tr>
+<![endif]-->
+
+<!--[if mso]>
+<td valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
+<tbody>
 <tr>
 
-                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;line-height: 150%;text-align: left;">
+<td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;line-height: 150%;text-align: left;">
 
-                            <h1 style="text-align: center;display: block;margin: 0;padding: 0;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 26px;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;"><span style="font-size:32px">The Orbital Index</span></h1>
+    <h1 style="text-align: center;display: block;margin: 0;padding: 0;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 26px;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;"><span style="font-size:32px">The Orbital Index</span></h1>
 
 <div style="text-align: center;">Issue No. 82 | Sep 16, 2020<br>
 <br>
@@ -43,388 +44,388 @@ image: /assets/icons/icon.png
 
 <div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
 
-                        </td>
-                    </tr>
-                </tbody>
+</td>
+</tr>
+</tbody>
 </table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
+<!--[if mso]>
+</td>
+<![endif]-->
 
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
-            </td>
-        </tr>
-    </tbody>
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
 </table></td>
-                            </tr>
-                            <tr>
-                                <td valign="top" id="templateBody" style="background:var(--body-bg) none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: var(--body-bg);background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 1px solid #a5a5a5;padding-top: 0px;padding-bottom: 9px;">
-<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock highlight" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnTextBlockOuter">
-        <tr>
-            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
-
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
-                    <tbody>
-<tr>
-
-                        <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
-
-                            <p style="line-height: 150%;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;"><strong id="very-tentative-evidence-of-microbial-life-on-venus">(Very) tentative evidence of microbial life on Venus.</strong> Using the James Clerk Maxwell Telescope in Hawaii and the Atacama Large Millimeter Array observatory in Chile, researchers announced evidence of <a href="https://en.wikipedia.org/wiki/Phosphine" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">phosphine</a> gas (PH<sub>3</sub>) in the Venusian atmosphere, a gas primarily created on Earth by microbes that live in oxygen-free environments (<a href="https://www.nature.com/articles/s41550-020-1174-4" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">paper</a>). While the surface of Venus is currently incredibly inhospitable, there are regions of the atmosphere around 50 km up where temperatures range from 0-150° C and one could imagine finding life (<a href="https://www.sciencedaily.com/releases/2009/03/090318094642.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">as we do on Earth</a>)—and this is exactly where the phosphine was detected. <a href="https://blogs.scientificamerican.com/observations/when-we-finally-find-aliens-they-might-smell-terrible/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Phosphine has previously been proposed as a biosignature</a> (<a href="https://arxiv.org/abs/1910.05224" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">paper</a>) since it’s reactive (e.g. short lived) and we don’t know of any abiotic process that could create it in quantity. “<em>The presence of PH<sub>3</sub> is unexplained after exhaustive study of steady-state chemistry and photochemical pathways, with no currently known abiotic production routes in Venus’s atmosphere, clouds, surface and subsurface, or from lightning, volcanic or meteoritic delivery.</em>” For 3 billion years, ending around 750 million years ago, <a href="https://en.wikipedia.org/wiki/Life_on_Venus#:~:text=Recent%20studies%20from%20September%20of,amount%20of%20time%20to%20evolve." style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Venus may have had surface water and a habitable environment</a>, leaving the tantalizing possibility that we’ve detected the last surviving vestiges of an ancient ecosystem. On the other hand, this could be measurement error, or we may have instead found evidence of a new abiotic form of phosphine synthesis in the extreme environment of Venus—scientists will be working hard to propose non-biological processes that could explain these results, and we expect to see a spate of new atmospheric Venus <a href="https://www.inverse.com/innovation/life-on-venus-rocket-lab-ceo" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">mission proposals</a>. In the fantastic event that the phosphine is of biological origin, the next big question will be whether or not Venusian life evolved independently, or <a href="https://en.wikipedia.org/wiki/Panspermia#Lithopanspermia" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">shares ancestry with life on Earth</a>. <a href="https://www.planetary.org/articles/venus-phosphine-biosignature" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">The Planetary Society has more about these results</a>.</p>
-
-<div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
-
-                        </td>
-                    </tr>
-                </tbody>
-</table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
-            </td>
-        </tr>
-    </tbody>
-</table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageCardBlock highlight" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnImageCardBlockOuter">
-        <tr>
-            <td class="mcnImageCardBlockInner" valign="top" style="padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-
-<table align="right" border="0" cellpadding="0" cellspacing="0" class="mcnImageCardBottomContent highlight" width="100%" style="background-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody>
-<tr>
-        <td class="mcnImageCardBottomImageContent" align="center" valign="top" style="padding-top: 0px;padding-right: 0px;padding-bottom: 0;padding-left: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-
-
-            <a href="https://xkcd.com/2359/" title="" class="" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-
-
-            <img alt="" src="https://mcusercontent.com/e215b9e6f9a105b2c34f627a3/images/bcbc9beb-6d82-474f-826f-cc7a10f62a73.png" width="564" style="max-width: 1000px;border-top-left-radius: 0%;border-top-right-radius: 0%;border-bottom-right-radius: 0%;border-bottom-left-radius: 0%;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class="mcnImage">
-            </a>
-
-        </td>
     </tr>
     <tr>
-        <td class="mcnTextContent" valign="top" style='padding: 9px 18px;font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);line-height: 150%;' width="546">
-             
+        <td valign="top" id="templateBody" style="background:var(--body-bg) none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: var(--body-bg);background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 1px solid #a5a5a5;padding-top: 0px;padding-bottom: 9px;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock highlight" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<!--[if mso]>
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+<tr>
+<![endif]-->
+
+<!--[if mso]>
+<td valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
+<tbody>
+<tr>
+
+<td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
+
+    <p style="line-height: 150%;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;"><strong id="very-tentative-evidence-of-microbial-life-on-venus">(Very) tentative evidence of microbial life on Venus.</strong> Using the James Clerk Maxwell Telescope in Hawaii and the Atacama Large Millimeter Array observatory in Chile, researchers announced evidence of <a href="https://en.wikipedia.org/wiki/Phosphine" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">phosphine</a> gas (PH<sub>3</sub>) in the Venusian atmosphere, a gas primarily created on Earth by microbes that live in oxygen-free environments (<a href="https://www.nature.com/articles/s41550-020-1174-4" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">paper</a>). While the surface of Venus is currently incredibly inhospitable, there are regions of the atmosphere around 50 km up where temperatures range from 0-150° C and one could imagine finding life (<a href="https://www.sciencedaily.com/releases/2009/03/090318094642.htm" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">as we do on Earth</a>)—and this is exactly where the phosphine was detected. <a href="https://blogs.scientificamerican.com/observations/when-we-finally-find-aliens-they-might-smell-terrible/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Phosphine has previously been proposed as a biosignature</a> (<a href="https://arxiv.org/abs/1910.05224" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">paper</a>) since it’s reactive (e.g. short lived) and we don’t know of any abiotic process that could create it in quantity. “<em>The presence of PH<sub>3</sub> is unexplained after exhaustive study of steady-state chemistry and photochemical pathways, with no currently known abiotic production routes in Venus’s atmosphere, clouds, surface and subsurface, or from lightning, volcanic or meteoritic delivery.</em>” For 3 billion years, ending around 750 million years ago, <a href="https://en.wikipedia.org/wiki/Life_on_Venus#:~:text=Recent%20studies%20from%20September%20of,amount%20of%20time%20to%20evolve." style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Venus may have had surface water and a habitable environment</a>, leaving the tantalizing possibility that we’ve detected the last surviving vestiges of an ancient ecosystem. On the other hand, this could be measurement error, or we may have instead found evidence of a new abiotic form of phosphine synthesis in the extreme environment of Venus—scientists will be working hard to propose non-biological processes that could explain these results, and we expect to see a spate of new atmospheric Venus <a href="https://www.inverse.com/innovation/life-on-venus-rocket-lab-ceo" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">mission proposals</a>. In the fantastic event that the phosphine is of biological origin, the next big question will be whether or not Venusian life evolved independently, or <a href="https://en.wikipedia.org/wiki/Panspermia#Lithopanspermia" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">shares ancestry with life on Earth</a>. <a href="https://www.planetary.org/articles/venus-phosphine-biosignature" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">The Planetary Society has more about these results</a>.</p>
+
 <div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
 
-        </td>
-    </tr>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]>
+</td>
+<![endif]-->
+
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageCardBlock highlight" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnImageCardBlockOuter">
+<tr>
+<td class="mcnImageCardBlockInner" valign="top" style="padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+<table align="right" border="0" cellpadding="0" cellspacing="0" class="mcnImageCardBottomContent highlight" width="100%" style="background-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td class="mcnImageCardBottomImageContent" align="center" valign="top" style="padding-top: 0px;padding-right: 0px;padding-bottom: 0;padding-left: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+<a href="https://xkcd.com/2359/" title="" class="" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+<img alt="" src="https://mcusercontent.com/e215b9e6f9a105b2c34f627a3/images/bcbc9beb-6d82-474f-826f-cc7a10f62a73.png" width="564" style="max-width: 1000px;border-top-left-radius: 0%;border-top-right-radius: 0%;border-bottom-right-radius: 0%;border-bottom-left-radius: 0%;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class="mcnImage">
+</a>
+
+</td>
+</tr>
+<tr>
+<td class="mcnTextContent" valign="top" style='padding: 9px 18px;font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);line-height: 150%;' width="546">
+ 
+<div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
+
+</td>
+</tr>
 </tbody>
 </table>
 
 
 
 
-            </td>
-        </tr>
-    </tbody>
+</td>
+</tr>
+</tbody>
 </table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock highlight" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnTextBlockOuter">
-        <tr>
-            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<!--[if mso]>
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+<tr>
+<![endif]-->
 
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
-                    <tbody>
+<!--[if mso]>
+<td valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
+<tbody>
 <tr>
 
-                        <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
+<td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
 
-                            <p style="line-height: 150%;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;"><strong id="astra-launches-let-s-do-a-rocketry-startup-roundup">Astra launches + let’s do a rocketry startup roundup. </strong>Last Friday, after multiple delays, Astra’s Rocket 3.1 <a href="https://astra.com/blog/we-have-lift-off/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">made a beautiful, but ultimately unsuccessful, attempt at an orbital launch</a> (here’s the <a href="https://twitter.com/astra/status/1304884123882807296?s=21" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">official launch video</a>, another with <a href="https://twitter.com/cultonjennifer/status/1304626860853141505?s=21" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">fun bystander commentary</a>, and a third with <a href="https://www.facebook.com/ewvandongen/videos/10100980788269883/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">a closer view of the explosion</a>). The vehicle’s navigation system introduced an oscillation that caused the flight safety system to shut off the engine. This is the fourth failure for the company (Rocket 1 and 2 were launched under significantly more secrecy, and Rocket 3 suffered an anomaly/RUD pre-flight). Astra will attempt a Rocket 3.2 launch, likely later this year, but may be running low on funding, <a href="https://www.youtube.com/watch?v=q2izFjTEBKQ" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">according to Scott Manley</a>. Meanwhile, <a href="https://www.pldspace.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">PLD Space</a>, a Spanish startup initially focused on the sounding rocket market (with future orbital ambitions), recently <a href="https://startupsreal.com/pld-space-closes-e7m-investment-in-tie-up-with-arcano-partners/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">closed an additional €7M investment</a> after completing a full duration static fire (in February) and qualification of thrust vectoring (last month) for their <a href="https://en.wikipedia.org/wiki/TEPREL#TEPREL-B" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">TEPREL-B</a> engine—the engine that will power their <a href="https://www.pldspace.com/en/miura-1" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Miura-1</a> suborbital rocket. In the southern hemisphere, <a href="https://www.gspacetech.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Gilmour Space Technologies</a> has been making progress on their hybrid fuel rocket, <a href="https://www.gspacetech.com/launch" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Eris</a>, and inked a <a href="https://www.innovationaus.com/gilmours-giant-leap-for-sovereign-space-capability/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">launch deal with Space Machines</a> last week. Eris uses a solid propellant with a liquid oxidizer, decreasing the complexity of development but retaining some of the efficiency and restartability that liquid engines provide. (Similarly, Rocket Lab <a href="https://3dprintingindustry.com/news/worlds-1st-3d-printed-battery-powered-rocket-engine-47226/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">reduced the complexity of Electron by using electric pumps</a> instead of a traditional gas generator system.) And finally, Scottish startup <a href="https://www.skyrora.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Skyrora</a> recently launched their tiny SkyLark Micro (mentioned in <a href="https://orbitalindex.com/archive/2020-08-19-Issue-78/#news-in-brief" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Issue No. 82</a>) and are targeting a launch of their scaled up <a href="https://www.skyrora.com/skyrora-xl" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">SkyLark XL</a> with its restartable peroxide third stage in 2023. We’re pulling for them all! (Related: While not a technical development, Chinese startup Landspace just <a href="https://spacenews.com/chinas-landspace-raises-175-million-for-zhuque-2-launch-vehicles" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">raised $175M for its Zhuque-2</a> two-stage methane-O2 vehicle and is targeting a June 2021 launch.)</p>
+    <p style="line-height: 150%;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;"><strong id="astra-launches-let-s-do-a-rocketry-startup-roundup">Astra launches + let’s do a rocketry startup roundup. </strong>Last Friday, after multiple delays, Astra’s Rocket 3.1 <a href="https://astra.com/blog/we-have-lift-off/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">made a beautiful, but ultimately unsuccessful, attempt at an orbital launch</a> (here’s the <a href="https://twitter.com/astra/status/1304884123882807296?s=21" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">official launch video</a>, another with <a href="https://twitter.com/cultonjennifer/status/1304626860853141505?s=21" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">fun bystander commentary</a>, and a third with <a href="https://www.facebook.com/ewvandongen/videos/10100980788269883/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">a closer view of the explosion</a>). The vehicle’s navigation system introduced an oscillation that caused the flight safety system to shut off the engine. This is the fourth failure for the company (Rocket 1 and 2 were launched under significantly more secrecy, and Rocket 3 suffered an anomaly/RUD pre-flight). Astra will attempt a Rocket 3.2 launch, likely later this year, but may be running low on funding, <a href="https://www.youtube.com/watch?v=q2izFjTEBKQ" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">according to Scott Manley</a>. Meanwhile, <a href="https://www.pldspace.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">PLD Space</a>, a Spanish startup initially focused on the sounding rocket market (with future orbital ambitions), recently <a href="https://startupsreal.com/pld-space-closes-e7m-investment-in-tie-up-with-arcano-partners/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">closed an additional €7M investment</a> after completing a full duration static fire (in February) and qualification of thrust vectoring (last month) for their <a href="https://en.wikipedia.org/wiki/TEPREL#TEPREL-B" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">TEPREL-B</a> engine—the engine that will power their <a href="https://www.pldspace.com/en/miura-1" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Miura-1</a> suborbital rocket. In the southern hemisphere, <a href="https://www.gspacetech.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Gilmour Space Technologies</a> has been making progress on their hybrid fuel rocket, <a href="https://www.gspacetech.com/launch" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Eris</a>, and inked a <a href="https://www.innovationaus.com/gilmours-giant-leap-for-sovereign-space-capability/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">launch deal with Space Machines</a> last week. Eris uses a solid propellant with a liquid oxidizer, decreasing the complexity of development but retaining some of the efficiency and restartability that liquid engines provide. (Similarly, Rocket Lab <a href="https://3dprintingindustry.com/news/worlds-1st-3d-printed-battery-powered-rocket-engine-47226/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">reduced the complexity of Electron by using electric pumps</a> instead of a traditional gas generator system.) And finally, Scottish startup <a href="https://www.skyrora.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Skyrora</a> recently launched their tiny SkyLark Micro (mentioned in <a href="https://orbitalindex.com/archive/2020-08-19-Issue-78/#news-in-brief" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Issue No. 82</a>) and are targeting a launch of their scaled up <a href="https://www.skyrora.com/skyrora-xl" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">SkyLark XL</a> with its restartable peroxide third stage in 2023. We’re pulling for them all! (Related: While not a technical development, Chinese startup Landspace just <a href="https://spacenews.com/chinas-landspace-raises-175-million-for-zhuque-2-launch-vehicles" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">raised $175M for its Zhuque-2</a> two-stage methane-O2 vehicle and is targeting a June 2021 launch.)</p>
 
 <div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
 
-                        </td>
-                    </tr>
-                </tbody>
+</td>
+</tr>
+</tbody>
 </table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
+<!--[if mso]>
+</td>
+<![endif]-->
 
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
-            </td>
-        </tr>
-    </tbody>
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
 </table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageCardBlock highlight" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnImageCardBlockOuter">
-        <tr>
-            <td class="mcnImageCardBlockInner" valign="top" style="padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnImageCardBlockOuter">
+<tr>
+<td class="mcnImageCardBlockInner" valign="top" style="padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 
 <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnImageCardBottomContent highlight" width="100%" style="background-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody>
+<tbody>
 <tr>
-        <td class="mcnImageCardBottomImageContent" align="center" valign="top" style="padding-top: 0px;padding-right: 0px;padding-bottom: 0;padding-left: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<td class="mcnImageCardBottomImageContent" align="center" valign="top" style="padding-top: 0px;padding-right: 0px;padding-bottom: 0;padding-left: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 
 
-            <a href="https://astra.com/blog/we-have-lift-off/" title="" class="" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<a href="https://astra.com/blog/we-have-lift-off/" title="" class="" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 
 
-            <img alt="" src="https://mcusercontent.com/e215b9e6f9a105b2c34f627a3/images/f076116a-78b8-4f41-8b58-6227b191e47b.jpg" width="564" style="max-width: 1001px;border-top-left-radius: 0%;border-top-right-radius: 0%;border-bottom-right-radius: 0%;border-bottom-left-radius: 0%;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class="mcnImage">
-            </a>
+<img alt="" src="https://mcusercontent.com/e215b9e6f9a105b2c34f627a3/images/f076116a-78b8-4f41-8b58-6227b191e47b.jpg" width="564" style="max-width: 1001px;border-top-left-radius: 0%;border-top-right-radius: 0%;border-bottom-right-radius: 0%;border-bottom-left-radius: 0%;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class="mcnImage">
+</a>
 
-        </td>
-    </tr>
-    <tr>
-        <td class="mcnTextContent" valign="top" style='padding: 9px 18px;font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);line-height: 150%;' width="546">
-            <p style='font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);line-height: 150%;'><a href="https://astra.com/blog/we-have-lift-off/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Rocket 3.1 launches</a> from the <a href="https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_%E2%80%93_Alaska" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;">Pacific Launch Complex Alaska on Kodiak Island</a> with Ugak Island viewed behind the heat distortion from the rocket’s exhaust plume. This distortion is usually invisible at other launch sites due to their lack of a backdrop.</p>
+</td>
+</tr>
+<tr>
+<td class="mcnTextContent" valign="top" style='padding: 9px 18px;font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);line-height: 150%;' width="546">
+<p style='font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);line-height: 150%;'><a href="https://astra.com/blog/we-have-lift-off/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Rocket 3.1 launches</a> from the <a href="https://en.wikipedia.org/wiki/Pacific_Spaceport_Complex_%E2%80%93_Alaska" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;">Pacific Launch Complex Alaska on Kodiak Island</a> with Ugak Island viewed behind the heat distortion from the rocket’s exhaust plume. This distortion is usually invisible at other launch sites due to their lack of a backdrop.</p>
 
 <div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
 
-        </td>
-    </tr>
+</td>
+</tr>
 </tbody>
 </table>
 
 
 
 
-            </td>
-        </tr>
-    </tbody>
+</td>
+</tr>
+</tbody>
 </table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock highlight" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnTextBlockOuter">
-        <tr>
-            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<!--[if mso]>
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+<tr>
+<![endif]-->
 
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
-                    <tbody>
+<!--[if mso]>
+<td valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
+<tbody>
 <tr>
 
-                        <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
+<td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
 
-                            <p style="line-height: 150%;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;"><strong id="the-world-is-on-fire-again">The world is on fire (again).</strong> Everyone on the US West Coast (and in <a href="https://www.bbc.com/news/world-latin-america-53893161" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">the Amazon</a>, <a href="https://www.nature.com/articles/d41586-020-02568-y" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">the Arctic</a>, <a href="https://www.nationalgeographic.com/science/2020/07/heat-wave-thawed-siberia-now-on-fire" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Siberia</a>...) is suffering through unlivable air quality indexes from record-breaking fires, which have burned over <a href="https://www.fire.ca.gov/incidents/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">3.1 million acres in California alone</a>, an area larger than Connecticut and 26x what had burned by this time last year. As <a href="https://heated.world/p/nothing-to-see-here-folks" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Emily Atkin reported in HEATED</a>, news sources are largely ignoring the cause of these fires: <a href="https://www.c2es.org/content/wildfires-and-climate-change" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">climate change</a>. This is a vicious cycle—the fires’ emissions are the <a href="https://twitter.com/Weather_West/status/1304477304962207744" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">highest we’ve ever seen by satellite from CA or OR</a> and have <a href="https://qz.com/1903191/western-wildfires-are-producing-a-record-breaking-amount-of-co2/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">now emitted more CO<sub>2</sub> than the states’ power sectors</a>. Earth observation satellites are playing a key role in analyzing and responding to this crisis. NASA’s <a href="https://firms.modaps.eosdis.nasa.gov/map" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Fire Information for Resource Management System</a> provides daily fire point-source detection, along with real time geofenced updates, world wide; and, here’s a view that their <a href="https://aqua.nasa.gov/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Aqua</a> satellite recently <a href="https://www.nasa.gov/image-feature/goddard/2020/nasas-aqua-satellite-captures-devastating-wildfires-in-oregon" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">captured of smoke and fire sources over Oregon</a>. <a href="https://climate.nasa.gov/vital-signs/global-temperature/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">NASA also provides a dashboard of world temperature</a> (📈), and <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Ice_sheet_melt_on_track_with_worst-case_climate_scenario" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">ESA is reporting</a> that “<em>Antarctica and Greenland are melting at a pace that lines up with the worst-case climate scenarios predicted by the Intergovernmental Panel on Climate Change</em>” (<a href="https://www.nature.com/articles/s41558-020-0893-y" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">paper</a>). Finally, even as <a href="http://orbitalindex.com/archive/2020-01-23-Issue-48/#tracking-methane-from-space" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">satellites are starting to monitor methane releases</a>, the Trump administration has <a href="https://www.nytimes.com/2020/08/13/climate/trump-methane.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">dropped rules that require oil and gas companies to detect and repair methane leaks</a> (along with <a href="https://www.nytimes.com/interactive/2020/climate/trump-environment-rollbacks.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">99 other environmental rollbacks</a>). For more updates about the anthropocene, we recommend <a href="https://heated.world/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">HEATED</a>, <a href="https://www.rewiringamerica.org/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Rewiring America</a>, and <a href="https://qz.com/emails/the-race-to-zero-emissions" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">The Race to Zero Emissions from Quartz</a>. 🌍🔥</p>
+    <p style="line-height: 150%;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;"><strong id="the-world-is-on-fire-again">The world is on fire (again).</strong> Everyone on the US West Coast (and in <a href="https://www.bbc.com/news/world-latin-america-53893161" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">the Amazon</a>, <a href="https://www.nature.com/articles/d41586-020-02568-y" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">the Arctic</a>, <a href="https://www.nationalgeographic.com/science/2020/07/heat-wave-thawed-siberia-now-on-fire" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Siberia</a>...) is suffering through unlivable air quality indexes from record-breaking fires, which have burned over <a href="https://www.fire.ca.gov/incidents/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">3.1 million acres in California alone</a>, an area larger than Connecticut and 26x what had burned by this time last year. As <a href="https://heated.world/p/nothing-to-see-here-folks" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Emily Atkin reported in HEATED</a>, news sources are largely ignoring the cause of these fires: <a href="https://www.c2es.org/content/wildfires-and-climate-change" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">climate change</a>. This is a vicious cycle—the fires’ emissions are the <a href="https://twitter.com/Weather_West/status/1304477304962207744" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">highest we’ve ever seen by satellite from CA or OR</a> and have <a href="https://qz.com/1903191/western-wildfires-are-producing-a-record-breaking-amount-of-co2/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">now emitted more CO<sub>2</sub> than the states’ power sectors</a>. Earth observation satellites are playing a key role in analyzing and responding to this crisis. NASA’s <a href="https://firms.modaps.eosdis.nasa.gov/map" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Fire Information for Resource Management System</a> provides daily fire point-source detection, along with real time geofenced updates, world wide; and, here’s a view that their <a href="https://aqua.nasa.gov/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Aqua</a> satellite recently <a href="https://www.nasa.gov/image-feature/goddard/2020/nasas-aqua-satellite-captures-devastating-wildfires-in-oregon" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">captured of smoke and fire sources over Oregon</a>. <a href="https://climate.nasa.gov/vital-signs/global-temperature/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">NASA also provides a dashboard of world temperature</a> (📈), and <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Ice_sheet_melt_on_track_with_worst-case_climate_scenario" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">ESA is reporting</a> that “<em>Antarctica and Greenland are melting at a pace that lines up with the worst-case climate scenarios predicted by the Intergovernmental Panel on Climate Change</em>” (<a href="https://www.nature.com/articles/s41558-020-0893-y" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">paper</a>). Finally, even as <a href="http://orbitalindex.com/archive/2020-01-23-Issue-48/#tracking-methane-from-space" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">satellites are starting to monitor methane releases</a>, the Trump administration has <a href="https://www.nytimes.com/2020/08/13/climate/trump-methane.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">dropped rules that require oil and gas companies to detect and repair methane leaks</a> (along with <a href="https://www.nytimes.com/interactive/2020/climate/trump-environment-rollbacks.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">99 other environmental rollbacks</a>). For more updates about the anthropocene, we recommend <a href="https://heated.world/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">HEATED</a>, <a href="https://www.rewiringamerica.org/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Rewiring America</a>, and <a href="https://qz.com/emails/the-race-to-zero-emissions" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">The Race to Zero Emissions from Quartz</a>. 🌍🔥</p>
 
 <div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
 
-                        </td>
-                    </tr>
-                </tbody>
+</td>
+</tr>
+</tbody>
 </table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
+<!--[if mso]>
+</td>
+<![endif]-->
 
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
-            </td>
-        </tr>
-    </tbody>
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
 </table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageCardBlock highlight" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnImageCardBlockOuter">
-        <tr>
-            <td class="mcnImageCardBlockInner" valign="top" style="padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnImageCardBlockOuter">
+<tr>
+<td class="mcnImageCardBlockInner" valign="top" style="padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 
 <table align="right" border="0" cellpadding="0" cellspacing="0" class="mcnImageCardBottomContent highlight" width="100%" style="background-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody>
+<tbody>
 <tr>
-        <td class="mcnImageCardBottomImageContent" align="center" valign="top" style="padding-top: 0px;padding-right: 0px;padding-bottom: 0;padding-left: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<td class="mcnImageCardBottomImageContent" align="center" valign="top" style="padding-top: 0px;padding-right: 0px;padding-bottom: 0;padding-left: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 
 
-            <a href="https://firms.modaps.eosdis.nasa.gov/map" title="" class="" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<a href="https://firms.modaps.eosdis.nasa.gov/map" title="" class="" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 
 
-            <img alt="" src="https://mcusercontent.com/e215b9e6f9a105b2c34f627a3/images/0b83ab51-d94c-4133-be12-ca7a7b4ddf05.png" width="564" style="max-width: 1000px;border-top-left-radius: 0%;border-top-right-radius: 0%;border-bottom-right-radius: 0%;border-bottom-left-radius: 0%;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class="mcnImage">
-            </a>
+<img alt="" src="https://mcusercontent.com/e215b9e6f9a105b2c34f627a3/images/0b83ab51-d94c-4133-be12-ca7a7b4ddf05.png" width="564" style="max-width: 1000px;border-top-left-radius: 0%;border-top-right-radius: 0%;border-bottom-right-radius: 0%;border-bottom-left-radius: 0%;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class="mcnImage">
+</a>
 
-        </td>
-    </tr>
-    <tr>
-        <td class="mcnTextContent" valign="top" style='padding: 9px 18px;font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);line-height: 150%;' width="546">
-            <p style='font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);line-height: 150%;'>NASA’s <a href="https://firms.modaps.eosdis.nasa.gov/map" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Fire Information for Resource Management System</a> showing detected fires from orbit. Andrew took this screenshot while using Earth observation data for what is now everyday life in 2020.</p>
+</td>
+</tr>
+<tr>
+<td class="mcnTextContent" valign="top" style='padding: 9px 18px;font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);line-height: 150%;' width="546">
+<p style='font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);line-height: 150%;'>NASA’s <a href="https://firms.modaps.eosdis.nasa.gov/map" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Fire Information for Resource Management System</a> showing detected fires from orbit. Andrew took this screenshot while using Earth observation data for what is now everyday life in 2020.</p>
 
 <div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
 
-        </td>
-    </tr>
+</td>
+</tr>
 </tbody>
 </table>
 
 
 
 
-            </td>
-        </tr>
-    </tbody>
+</td>
+</tr>
+</tbody>
 </table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock highlight" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnTextBlockOuter">
-        <tr>
-            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<!--[if mso]>
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+<tr>
+<![endif]-->
 
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
-                    <tbody>
+<!--[if mso]>
+<td valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
+<tbody>
 <tr>
 
-                        <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
+<td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
 
-                            <strong>News in brief. </strong>Northrop Grumman’s solid-fueled OmegA is <a href="https://spacenews.com/northrop-grumman-to-terminate-omega-rocket-program/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">officially cancelled</a> after their failure to win a military contract with it; Chinese <a href="https://www.nasaspaceflight.com/2020/09/kuaizhou-1a-fails-during-jilin-1-launch/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">ExPace’s launch of a high resolution remote sensing satellite on its three stage Kuaizhou rocket failed</a> to reach orbit; however, China successfully <a href="https://www.nasaspaceflight.com/2020/09/china-bounces-back-long-march-11-nine-satellites/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">launched another Long March 11 from a barge at sea</a> a few days later (<a href="https://youtu.be/wczXM1BC9no" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">video</a>); Astrobiotic completed <a href="https://www.astrobotic.com/2020/9/8/astrobotic-successfully-completes-peregrine-lunar-lander-structural-model-testing" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">structural testing of their Peregrine lunar lander</a> model; the Angara launch pad we <a href="https://orbitalindex.com/archive/2020-08-12-Issue-77/#the-future-of-angara" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">mentioned</a> a few issues back <a href="https://www.ruaviation.com/news/2020/9/3/15382/?h" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">arrived at Vostochny Cosmodrome</a> after traversing the North Sea Route; NASA <a href="https://www.orlandosentinel.com/space/os-bz-nasa-moon-rock-solicitation-20200910-t6fsl5tdfncxpbj3yealg2mtii-story.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">announced plans to buy lunar regolith mined by commercial companies</a> by 2024, seemingly as a ploy to demonstrate resource ownership rights on the Moon; Boeing is<a href="https://www.reuters.com/article/us-space-exploration-boeing-exclusive/exclusive-boeing-to-face-independent-ethics-probe-over-lunar-lander-bid-document-idUSKBN2603F2" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank"> facing an independent compliance and ethics review</a> related to their communications with NASA’s Doug Loverro regarding their lunar lander bid; GHGSat, whom we mentioned last week, <a href="https://www.ghgsat.com/ghgsat-secures-us30m-dollars-in-series-b-funding/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">announced that it has raised $30M as part of its Series B round</a>; and, Musk tweeted that <a href="https://twitter.com/elonmusk/status/1304836575075819520?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1304836575075819520%7Ctwgr%5Eshare_3&amp;ref_url=reeder-article%3A%2F%2Findex.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">SN8 will conduct an “exciting” 18 km flight with three Raptor engines in “about a week”</a> (the flight might look something <a href="https://youtu.be/DdTYMry7fq0" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">like this</a>).
+    <strong>News in brief. </strong>Northrop Grumman’s solid-fueled OmegA is <a href="https://spacenews.com/northrop-grumman-to-terminate-omega-rocket-program/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">officially cancelled</a> after their failure to win a military contract with it; Chinese <a href="https://www.nasaspaceflight.com/2020/09/kuaizhou-1a-fails-during-jilin-1-launch/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">ExPace’s launch of a high resolution remote sensing satellite on its three stage Kuaizhou rocket failed</a> to reach orbit; however, China successfully <a href="https://www.nasaspaceflight.com/2020/09/china-bounces-back-long-march-11-nine-satellites/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">launched another Long March 11 from a barge at sea</a> a few days later (<a href="https://youtu.be/wczXM1BC9no" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">video</a>); Astrobiotic completed <a href="https://www.astrobotic.com/2020/9/8/astrobotic-successfully-completes-peregrine-lunar-lander-structural-model-testing" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">structural testing of their Peregrine lunar lander</a> model; the Angara launch pad we <a href="https://orbitalindex.com/archive/2020-08-12-Issue-77/#the-future-of-angara" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">mentioned</a> a few issues back <a href="https://www.ruaviation.com/news/2020/9/3/15382/?h" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">arrived at Vostochny Cosmodrome</a> after traversing the North Sea Route; NASA <a href="https://www.orlandosentinel.com/space/os-bz-nasa-moon-rock-solicitation-20200910-t6fsl5tdfncxpbj3yealg2mtii-story.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">announced plans to buy lunar regolith mined by commercial companies</a> by 2024, seemingly as a ploy to demonstrate resource ownership rights on the Moon; Boeing is<a href="https://www.reuters.com/article/us-space-exploration-boeing-exclusive/exclusive-boeing-to-face-independent-ethics-probe-over-lunar-lander-bid-document-idUSKBN2603F2" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank"> facing an independent compliance and ethics review</a> related to their communications with NASA’s Doug Loverro regarding their lunar lander bid; GHGSat, whom we mentioned last week, <a href="https://www.ghgsat.com/ghgsat-secures-us30m-dollars-in-series-b-funding/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">announced that it has raised $30M as part of its Series B round</a>; and, Musk tweeted that <a href="https://twitter.com/elonmusk/status/1304836575075819520?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1304836575075819520%7Ctwgr%5Eshare_3&amp;ref_url=reeder-article%3A%2F%2Findex.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">SN8 will conduct an “exciting” 18 km flight with three Raptor engines in “about a week”</a> (the flight might look something <a href="https://youtu.be/DdTYMry7fq0" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">like this</a>).
 
 <div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
 
-                        </td>
-                    </tr>
-                </tbody>
+</td>
+</tr>
+</tbody>
 </table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
+<!--[if mso]>
+</td>
+<![endif]-->
 
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
-            </td>
-        </tr>
-    </tbody>
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
 </table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock highlight" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnTextBlockOuter">
-        <tr>
-            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<!--[if mso]>
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+<tr>
+<![endif]-->
 
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
-                    <tbody>
+<!--[if mso]>
+<td valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
+<tbody>
 <tr>
 
-                        <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
+<td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
 
-                            <strong>Etc.</strong>
+    <strong>Etc.</strong>
 
 <ul>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">📅 <a href="https://www.space.com/uranus-neptune-skywatching-september-2020.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Uranus is visible this week without a telescope.</a>
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">📅 <a href="https://www.space.com/uranus-neptune-skywatching-september-2020.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Uranus is visible this week without a telescope.</a>
 </li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">📅 Software for Space is hosting a free, online talk with <a href="https://www.andris.space/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Andris Slavinskis</a> about imaging and intercepting comets as part of ESA’s <a href="https://www.cometinterceptor.space/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Comet Interceptor mission</a>. Andris is co-PI of the <a href="https://tospexgroup.space/node/7" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">OPIC</a> instrument, part of spacecraft B2, which will perform a risky, fast comet flyby. The talk is next Tuesday, September 22 at 8PM PDT. <a href="https://www.runtheworld.today/app/invitation/7231" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Signup here</a>.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">📅 <a href="https://space4impact.org/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Space4Impact</a> “<em>aims to advocate and promote NewSpace companies using or developing space technologies in alignment with the United Nations Sustainable Development Goals.</em>” <a href="https://space4impact.org/our-ecosystem/call-for-newspace-companies/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Applications for their November kick off event</a> end on the 20th.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">📅 ESA’s free <a href="https://isd.esa.int/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Virtual Industry Space Days</a> is happening September 16-17.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">An <a href="https://www.reddit.com/r/pics/comments/ihaqsl/i_captured_an_85_megapixel_photo_of_our_moon_last/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">85 megapixel picture of the Moon</a>. Be sure to zoom in!</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Curiosity just <a href="http://www.leonarddavid.com/curiosity-mars-rover-succeeds-in-unique-experiment/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">completed its first SAM TMAH experiment</a> which looks for organic molecules. Results are forthcoming.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">📅 Software for Space is hosting a free, online talk with <a href="https://www.andris.space/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Andris Slavinskis</a> about imaging and intercepting comets as part of ESA’s <a href="https://www.cometinterceptor.space/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Comet Interceptor mission</a>. Andris is co-PI of the <a href="https://tospexgroup.space/node/7" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">OPIC</a> instrument, part of spacecraft B2, which will perform a risky, fast comet flyby. The talk is next Tuesday, September 22 at 8PM PDT. <a href="https://www.runtheworld.today/app/invitation/7231" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Signup here</a>.</li>
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">📅 <a href="https://space4impact.org/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Space4Impact</a> “<em>aims to advocate and promote NewSpace companies using or developing space technologies in alignment with the United Nations Sustainable Development Goals.</em>” <a href="https://space4impact.org/our-ecosystem/call-for-newspace-companies/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Applications for their November kick off event</a> end on the 20th.</li>
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">📅 ESA’s free <a href="https://isd.esa.int/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Virtual Industry Space Days</a> is happening September 16-17.</li>
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">An <a href="https://www.reddit.com/r/pics/comments/ihaqsl/i_captured_an_85_megapixel_photo_of_our_moon_last/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">85 megapixel picture of the Moon</a>. Be sure to zoom in!</li>
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Curiosity just <a href="http://www.leonarddavid.com/curiosity-mars-rover-succeeds-in-unique-experiment/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">completed its first SAM TMAH experiment</a> which looks for organic molecules. Results are forthcoming.</li>
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 <a href="https://undark.org/2020/07/13/nasa-microbe-biology/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">How NASA has helped to shape the study of biology</a>.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">A recent <a href="https://arxiv.org/abs/2004.03968" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">paper</a> used up-to-date values based on our growing knowledge of stars and exoplanets to derive a modified Drake Equation and calculate that there may be around 36 alien civilizations currently sharing the galaxy with us. However, they appear to assume that 100% of habitable planets eventually develop life, which seems… high. You can experiment with their assumptions using <a href="https://www.omnicalculator.com/physics/alien-civilization" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">this handy calculator</a>.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">A recent <a href="https://arxiv.org/abs/2004.03968" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">paper</a> used up-to-date values based on our growing knowledge of stars and exoplanets to derive a modified Drake Equation and calculate that there may be around 36 alien civilizations currently sharing the galaxy with us. However, they appear to assume that 100% of habitable planets eventually develop life, which seems… high. You can experiment with their assumptions using <a href="https://www.omnicalculator.com/physics/alien-civilization" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">this handy calculator</a>.</li>
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 <a href="https://www.universetoday.com/147782/an-update-on-the-damage-to-the-arecibo-observatory/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">An update on the damage to the Arecibo Observatory</a>.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">A recent <a href="https://www.vox.com/podcasts/2020/8/27/21403184/saul-griffith-ezra-klein-show-solve-climate-change-green-new-deal-rewiring-america" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">interview of Saul Griffith on the Ezra Klein Show introducing Rewiring America</a>, a plan for electrifying the US and decarbonizing its grid by 2035—and creating 25 million jobs along the way. 💡</li>
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">A recent <a href="https://www.vox.com/podcasts/2020/8/27/21403184/saul-griffith-ezra-klein-show-solve-climate-change-green-new-deal-rewiring-america" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">interview of Saul Griffith on the Ezra Klein Show introducing Rewiring America</a>, a plan for electrifying the US and decarbonizing its grid by 2035—and creating 25 million jobs along the way. 💡</li>
 </ul>
 
 <div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
 
-                        </td>
-                    </tr>
-                </tbody>
+</td>
+</tr>
+</tbody>
 </table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
+<!--[if mso]>
+</td>
+<![endif]-->
 
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
-            </td>
-        </tr>
-    </tbody>
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
 </table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageCardBlock highlight" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnImageCardBlockOuter">
-        <tr>
-            <td class="mcnImageCardBlockInner" valign="top" style="padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnImageCardBlockOuter">
+<tr>
+<td class="mcnImageCardBlockInner" valign="top" style="padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 
 
 
 <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnImageCardTopContent highlight" width="100%" style="background-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody>
+<tbody>
 <tr>
-        <td class="mcnTextContent" valign="top" style='padding: 18px 18px 0px;font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);line-height: 150%;' width="546">
-            <p style='font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);line-height: 150%;'><span style="font-size:16px"><a href="https://phys.org/news/2020-09-solar-telescope-gregor-unveils-magnetic.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">A sunspot recently observed by the GREGOR solar telescope</a>, which can resolve details as small as 50 km on the surface of our local star.</span></p>
+<td class="mcnTextContent" valign="top" style='padding: 18px 18px 0px;font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);line-height: 150%;' width="546">
+<p style='font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);line-height: 150%;'><span style="font-size:16px"><a href="https://phys.org/news/2020-09-solar-telescope-gregor-unveils-magnetic.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">A sunspot recently observed by the GREGOR solar telescope</a>, which can resolve details as small as 50 km on the surface of our local star.</span></p>
 
 <div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
 
-        </td>
-    </tr>
-    <tr>
-        <td class="mcnImageCardTopImageContent" align="center" valign="top" style="padding-top: 9px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+</td>
+</tr>
+<tr>
+<td class="mcnImageCardTopImageContent" align="center" valign="top" style="padding-top: 9px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 
 
-            <a href="https://phys.org/news/2020-09-solar-telescope-gregor-unveils-magnetic.html" title="" class="" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<a href="https://phys.org/news/2020-09-solar-telescope-gregor-unveils-magnetic.html" title="" class="" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 
 
-            <img alt="" src="https://mcusercontent.com/e215b9e6f9a105b2c34f627a3/images/c8a308f1-2786-4c0f-b83c-0415c30b2e74.jpg" width="564" style="max-width: 1200px;border-top-left-radius: 0%;border-top-right-radius: 0%;border-bottom-right-radius: 0%;border-bottom-left-radius: 0%;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class="mcnImage">
+<img alt="" src="https://mcusercontent.com/e215b9e6f9a105b2c34f627a3/images/c8a308f1-2786-4c0f-b83c-0415c30b2e74.jpg" width="564" style="max-width: 1200px;border-top-left-radius: 0%;border-top-right-radius: 0%;border-bottom-right-radius: 0%;border-bottom-left-radius: 0%;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class="mcnImage">
 
-            </a>
+</a>
 
-        </td>
-    </tr>
+</td>
+</tr>
 </tbody>
 </table>
 
 
-            </td>
-        </tr>
-    </tbody>
+</td>
+</tr>
+</tbody>
 </table>
 </td>
-                            </tr>
-                            <tr>
-                                
-                            </tr>
-                        </table>
-                        <!--[if (gte mso 9)|(IE)]>
-                        </td>
-                        </tr>
-                        </table>
-                        <![endif]-->
-                        <!-- // END TEMPLATE -->
+    </tr>
+    <tr>
+
+    </tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!-- // END TEMPLATE -->

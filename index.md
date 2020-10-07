@@ -6,35 +6,35 @@ image: /assets/icons/icon.png
 ---
 
 <!-- BEGIN TEMPLATE // -->
-                        <!--[if (gte mso 9)|(IE)]>
-                        <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
-                        <tr>
-                        <td align="center" valign="top" width="600" style="width:600px;">
-                        <![endif]-->
-                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer highlight" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;border: 0;max-width: 600px !important;">
-                            <tr>
-                                
-                            </tr>
-                            <tr>
-                                <td valign="top" id="templateHeader" style="background:var(--body-bg) none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: var(--body-bg);background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 6px;padding-bottom: 6px;"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock highlight" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnTextBlockOuter">
-        <tr>
-            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
-
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
-                    <tbody>
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+<tr>
+<td align="center" valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer highlight" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;border: 0;max-width: 600px !important;">
 <tr>
 
-                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;line-height: 150%;text-align: left;">
+</tr>
+<tr>
+<td valign="top" id="templateHeader" style="background:var(--body-bg) none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: var(--body-bg);background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 6px;padding-bottom: 6px;"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock highlight" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<!--[if mso]>
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+<tr>
+<![endif]-->
 
-                            <h1 style="text-align: center;display: block;margin: 0;padding: 0;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 26px;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;"><span style="font-size:32px">The Orbital Index</span></h1>
+<!--[if mso]>
+<td valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
+<tbody>
+<tr>
+
+<td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;line-height: 150%;text-align: left;">
+
+<h1 style="text-align: center;display: block;margin: 0;padding: 0;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 26px;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;"><span style="font-size:32px">The Orbital Index</span></h1>
 
 <div style="text-align: center;">Issue No. 85 | Oct 7, 2020<br>
 <br>
@@ -44,301 +44,301 @@ image: /assets/icons/icon.png
 
 <div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
 
-                        </td>
-                    </tr>
-                </tbody>
+</td>
+</tr>
+</tbody>
 </table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
+<!--[if mso]>
+</td>
+<![endif]-->
 
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
-            </td>
-        </tr>
-    </tbody>
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
 </table></td>
-                            </tr>
-                            <tr>
-                                <td valign="top" id="templateBody" style="background:var(--body-bg) none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: var(--body-bg);background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 1px solid #a5a5a5;padding-top: 0px;padding-bottom: 9px;">
+</tr>
+<tr>
+<td valign="top" id="templateBody" style="background:var(--body-bg) none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: var(--body-bg);background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 1px solid #a5a5a5;padding-top: 0px;padding-bottom: 9px;">
 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock highlight" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnTextBlockOuter">
-        <tr>
-            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<!--[if mso]>
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+<tr>
+<![endif]-->
 
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
-                    <tbody>
+<!--[if mso]>
+<td valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
+<tbody>
 <tr>
 
-                        <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
+<td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
 
-                            <p style="line-height: 150%;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;"><strong id="nasa-itech-a-cornucopia-of-space-related-startups">NASA iTech, a cornucopia of space-related startups</strong>. Ben had the enjoyable experience of helping to judge last week’s <a href="https://www.nasa.gov/directorates/spacetech/itech" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">NASA iTech</a>. iTech is the agency’s <a href="https://www.nasaitech.org" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">international pitch competition</a> that is designed to identify and support startups in focus areas that can benefit NASA missions and programs. The competition narrows an international field of startups (including winners of iTech's regional <a href="https://www.nasaitech.org/ignite-the-night" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Ignite the Night</a> events) down to 25, and then again to a group of 10 finalists. Finalists are coached in preparing a final pitch to judges and <a href="https://www.nasa.gov/offices/oct/center-chief-technologists-2" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">NASA Center Chief Technologists</a>, who select three winners during this intense, two-day event. This year's Cycle I (of two) finalists were: </p>
+<p style="line-height: 150%;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;"><strong id="nasa-itech-a-cornucopia-of-space-related-startups">NASA iTech, a cornucopia of space-related startups</strong>. Ben had the enjoyable experience of helping to judge last week’s <a href="https://www.nasa.gov/directorates/spacetech/itech" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">NASA iTech</a>. iTech is the agency’s <a href="https://www.nasaitech.org" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">international pitch competition</a> that is designed to identify and support startups in focus areas that can benefit NASA missions and programs. The competition narrows an international field of startups (including winners of iTech's regional <a href="https://www.nasaitech.org/ignite-the-night" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Ignite the Night</a> events) down to 25, and then again to a group of 10 finalists. Finalists are coached in preparing a final pitch to judges and <a href="https://www.nasa.gov/offices/oct/center-chief-technologists-2" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">NASA Center Chief Technologists</a>, who select three winners during this intense, two-day event. This year's Cycle I (of two) finalists were: </p>
 
 <ul>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 <a href="https://www.skyrora.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Skyrora</a> (whom we've <a href="https://orbitalindex.com/archive/2020-05-26-Issue-66/#rockets-rockets-rockets" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">covered</a> <a href="https://orbitalindex.com/archive/2020-09-16-Issue-82/#astra-launches-let-s-do-a-rocketry-startup-roundup" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">before</a>), with its <a href="https://www.ecosene.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Ecosene recycled plastic rocket-/jet-grade fuel</a> (which might even provide a ~3% performance boost over RP-1).</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 <a href="https://www.amalgamatedvision.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Amalgamated Vision</a> (winner) with a look-down (as opposed to heads-up) laser retinal MEMS display resting on the cheekbones near the bottom of the wearer’s field of view.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Aperiomics' <a href="https://www.aperiomics.com/our-services/aperiomics-xplore-patho/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Xplore-PATHO</a> DNA-based microbial identification method.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Aperiomics' <a href="https://www.aperiomics.com/our-services/aperiomics-xplore-patho/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Xplore-PATHO</a> DNA-based microbial identification method.</li>
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 <a href="https://www.mojo.vision/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Mojo Vision</a> (winner) with an exceptionally well-funded augmented reality contact lens and eye-tracking-based UI. Mojo has developed tiny in-lens batteries and radios that facilitate all-day use.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 <a href="https://www.neuroflow.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">NeuroFlow</a>, an AI-driven digital mental/behavioral health platform with applications to deep space missions when live psychological support is impossible due to communication delays.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 <a href="https://orbitless.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Orbitless Drives</a>, makers of a next-generation electric motor <a href="https://en.wikipedia.org/wiki/Epicyclic_gearing" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">planetary gearbox</a> that removes the need for a geared orbit housing, reducing gear noise and vibration. Electric motors using this type of gearing are used in transportation, windmills, solar array actuators on satellites, etc.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 <a href="https://www.tevosol.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Tevosol EVOSS</a>, a body-temperature organ transportation device that can extend the life and viability of transplant-ready organs and could potentially allow for retrieval of organs grown on-orbit.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 <a href="https://otolithlabs.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Otolith</a> (winner), creators of a therapy device to reduce motion/<a href="https://en.wikipedia.org/wiki/Space_adaptation_syndrome" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">space sickness</a>—including rides on the <a href="https://en.wikipedia.org/wiki/Reduced-gravity_aircraft" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Vomit Comet</a>—as well as to treat vertigo symptoms by masking the inner-ear <a href="https://www.neuroscientificallychallenged.com/blog/know-your-brain-vestibular-system" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">vestibular system's</a> conflicting feedback to the ocular system.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 <a href="https://www.sixdof.space" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Sixdof</a>, a low-energy, low-bandwidth optical positioning system that uses stationary light-sources and clever optics, and could have applications in smallsat docking.</li>
 </ul>
 <a href="https://www.nasaitech.org/cycles" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Cycle II</a> is coming up October 14-15 with ten more companies in focus areas including power generation/energy, integrated photonics, advanced engineered materials, and miniaturized systems.
 
 <div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
 
-                        </td>
-                    </tr>
-                </tbody>
+</td>
+</tr>
+</tbody>
 </table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
+<!--[if mso]>
+</td>
+<![endif]-->
 
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
-            </td>
-        </tr>
-    </tbody>
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
 </table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock highlight" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnTextBlockOuter">
-        <tr>
-            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<!--[if mso]>
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+<tr>
+<![endif]-->
 
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
-                    <tbody>
+<!--[if mso]>
+<td valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
+<tbody>
 <tr>
 
-                        <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
+<td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
 
-                            <p style="line-height: 150%;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;"><strong id="nuclear-reactors-in-spaaaaaace">Nuclear reactors in spaaaaaace.</strong> While Ben was helping out with iTech, Andrew fell down a <a href="https://www.urbandictionary.com/define.php?term=Wikipedia%20Hole" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Wikipedia Hole</a> into the <a href="https://en.wikipedia.org/wiki/List_of_nuclear_power_systems_in_space" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">history of nuclear reactors in space</a>. Here's a summary. There are many <a href="https://en.wikipedia.org/wiki/Radioisotope_heater_unit" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">radioisotope heater units</a> (RHUs) and <a href="https://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">radioisotope thermoelectric generators</a> (RTGs) in space. Examples include the RHU used by <a href="https://en.wikipedia.org/wiki/Chang%27e_4" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Chang'e 4</a> to survive cold lunar nights, the <a href="https://en.wikipedia.org/wiki/MHW-RTG" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">MHW-RTG</a>s in the Voyager probes, the <a href="https://en.wikipedia.org/wiki/GPHS-RTG" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">GPHS-RTG</a>s used by Cassini and New Horizons, and the <a href="https://en.wikipedia.org/wiki/Multi-mission_radioisotope_thermoelectric_generator" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">MMRTG</a>s at the heart of Curiosity, Perseverance, and the in-development Dragonfly. (Interestingly, an RTG using <sup>241</sup>Am has been <a href="https://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator#RTG_for_interstellar_probes" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">proposed for an interstellar mission</a> (<a href="http://www.niac.usra.edu/files/library/meetings/misc/trieste_may02_mtg/McNutt_Ralph.pdf" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">pdf</a>), as its 432-year half-life could provide 500+ years of power [<a href="http://www.niac.usra.edu/files/library/meetings/misc/trieste_may02_mtg/McNutt_Ralph.pdf" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">pdf</a>].) The world’s first nuclear fission reactor, and the only launched by the US, was <a href="https://en.wikipedia.org/wiki/SNAP-10A" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">SNAP 10-A</a>, a <sup>235</sup>Uranium-Zirconium hydride reactor with sodium-potassium (NaK) coolant which had a thermal power output of 30 kW. It was launched in 1965, stopped working after just 43 days, and has had <em>seven</em> “anomalous events” that caused nearly 50 trackable pieces of debris to be shed from the craft. It should stay in orbit for 3,000 years… unless it breaks up further. The other ~30 known fission reactors were launched in <a href="https://en.wikipedia.org/wiki/US-A" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Soviet RORSATs</a>: nuclear-powered LEO ocean-surveillance radar satellites that required periodic boosts to prevent reentry. They were designed to launch their <sup>235</sup>U reactors to a higher orbit at the end of their operational lives. (These orbits will last 300-1,000 years, but the reactor fuel has a half-life of 70,000 years… so future generations may not love the plan.) But, these boosts didn’t always happen: in 1978, the <a href="https://en.wikipedia.org/wiki/Kosmos_954" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Cosmos 954 RORSAT</a> malfunctioned, reentered, and broke apart over northern Canada with the reactor attached, scattering radioactive debris over an 800 km long path—the USSR eventually paid $3M for cleanup, about a fifth of the true cost. Other satellites have also broken up in orbit, spreading radioactive debris, like the US’s Transit 5BN3 (carrying a <a href="https://en.wikipedia.org/wiki/Systems_for_Nuclear_Auxiliary_Power#SNAP-9" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">SNAP RTG</a>) and the USSR’s <a href="https://en.wikipedia.org/wiki/Kosmos_1402" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Cosmos 1402 RORSAT</a>. Others, including the higher power and higher orbit <a href="https://en.wikipedia.org/wiki/Kosmos_1818" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Kosmos 1818</a> and <a href="https://en.wikipedia.org/wiki/Kosmos_1867" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Kosmos 1867</a> RORSATs, have leaked trails of radioactive NaK coolant. The usefulness of the Gamma Ray Spectrometer on NASA’s <a href="https://en.wikipedia.org/wiki/Solar_Maximum_Mission" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">SolarMax</a> mission was reduced by <a href="http://www.svengrahn.pp.se/trackind/RORSAT/RORSAT.html#Kosmos-1867" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">anomalous gamma ray emissions from these leaking higher-orbit reactors</a>. Collisions among the remaining reactors in orbit are likely over the next few hundred years (<a href="https://www.sciencedirect.com/science/article/pii/027311779190540Z" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">paper</a>). Near future use of nuclear power in space may include NASA’s <a href="https://en.wikipedia.org/wiki/Kilopower" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Kilopower reactor</a> and <a href="https://en.wikipedia.org/wiki/Advanced_Stirling_radioisotope_generator" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Advanced Stirling Radioisotope Generator</a> (<a href="https://web.archive.org/web/20160420084629/https://prod.nais.nasa.gov/eps/eps_data/165279-OTHER-005-001.pdf" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">pdf</a>, but <a href="https://cen.acs.org/energy/nuclear-power/NASA-thinks-nuclear-reactors-supply/98/i19" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">here’s a good writeup</a>), and potentially even <a href="https://theconversation.com/to-safely-explore-the-solar-system-and-beyond-spaceships-need-to-go-faster-nuclear-powered-rockets-may-be-the-answer-137967" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">nuclear rockets</a>: DARPA just <a href="https://www.prnewswire.com/news-releases/gryphon-technologies-wins-14m-darpa-task-order-to-support-demonstration-and-development-of-the-high-assay-low-enriched-uranium-nuclear-thermal-propulsion-system-301140093.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">awarded a $14 million contract for a Nuclear Thermal Rocket design for cislunar operations</a> as part of their <a href="https://arstechnica.com/science/2020/06/the-us-military-is-getting-serious-about-nuclear-thermal-propulsion/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">DRACO</a> program (which we wrote about in <a href="https://orbitalindex.com/archive/2020-07-15-Issue-73/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Issue No. 73</a>). Related: <a href="https://web.archive.org/web/20170503083646/https://ston.jsc.nasa.gov/collections/TRS//_techrep/TP-1999-208856.pdf" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">This 158 page NASA PDF</a> contains a delightfully detailed history of space debris and was a primary source for this writeup.</p>
+<p style="line-height: 150%;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;"><strong id="nuclear-reactors-in-spaaaaaace">Nuclear reactors in spaaaaaace.</strong> While Ben was helping out with iTech, Andrew fell down a <a href="https://www.urbandictionary.com/define.php?term=Wikipedia%20Hole" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Wikipedia Hole</a> into the <a href="https://en.wikipedia.org/wiki/List_of_nuclear_power_systems_in_space" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">history of nuclear reactors in space</a>. Here's a summary. There are many <a href="https://en.wikipedia.org/wiki/Radioisotope_heater_unit" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">radioisotope heater units</a> (RHUs) and <a href="https://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">radioisotope thermoelectric generators</a> (RTGs) in space. Examples include the RHU used by <a href="https://en.wikipedia.org/wiki/Chang%27e_4" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Chang'e 4</a> to survive cold lunar nights, the <a href="https://en.wikipedia.org/wiki/MHW-RTG" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">MHW-RTG</a>s in the Voyager probes, the <a href="https://en.wikipedia.org/wiki/GPHS-RTG" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">GPHS-RTG</a>s used by Cassini and New Horizons, and the <a href="https://en.wikipedia.org/wiki/Multi-mission_radioisotope_thermoelectric_generator" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">MMRTG</a>s at the heart of Curiosity, Perseverance, and the in-development Dragonfly. (Interestingly, an RTG using <sup>241</sup>Am has been <a href="https://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator#RTG_for_interstellar_probes" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">proposed for an interstellar mission</a> (<a href="http://www.niac.usra.edu/files/library/meetings/misc/trieste_may02_mtg/McNutt_Ralph.pdf" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">pdf</a>), as its 432-year half-life could provide 500+ years of power [<a href="http://www.niac.usra.edu/files/library/meetings/misc/trieste_may02_mtg/McNutt_Ralph.pdf" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">pdf</a>].) The world’s first nuclear fission reactor, and the only launched by the US, was <a href="https://en.wikipedia.org/wiki/SNAP-10A" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">SNAP 10-A</a>, a <sup>235</sup>Uranium-Zirconium hydride reactor with sodium-potassium (NaK) coolant which had a thermal power output of 30 kW. It was launched in 1965, stopped working after just 43 days, and has had <em>seven</em> “anomalous events” that caused nearly 50 trackable pieces of debris to be shed from the craft. It should stay in orbit for 3,000 years… unless it breaks up further. The other ~30 known fission reactors were launched in <a href="https://en.wikipedia.org/wiki/US-A" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Soviet RORSATs</a>: nuclear-powered LEO ocean-surveillance radar satellites that required periodic boosts to prevent reentry. They were designed to launch their <sup>235</sup>U reactors to a higher orbit at the end of their operational lives. (These orbits will last 300-1,000 years, but the reactor fuel has a half-life of 70,000 years… so future generations may not love the plan.) But, these boosts didn’t always happen: in 1978, the <a href="https://en.wikipedia.org/wiki/Kosmos_954" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Cosmos 954 RORSAT</a> malfunctioned, reentered, and broke apart over northern Canada with the reactor attached, scattering radioactive debris over an 800 km long path—the USSR eventually paid $3M for cleanup, about a fifth of the true cost. Other satellites have also broken up in orbit, spreading radioactive debris, like the US’s Transit 5BN3 (carrying a <a href="https://en.wikipedia.org/wiki/Systems_for_Nuclear_Auxiliary_Power#SNAP-9" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">SNAP RTG</a>) and the USSR’s <a href="https://en.wikipedia.org/wiki/Kosmos_1402" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Cosmos 1402 RORSAT</a>. Others, including the higher power and higher orbit <a href="https://en.wikipedia.org/wiki/Kosmos_1818" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Kosmos 1818</a> and <a href="https://en.wikipedia.org/wiki/Kosmos_1867" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Kosmos 1867</a> RORSATs, have leaked trails of radioactive NaK coolant. The usefulness of the Gamma Ray Spectrometer on NASA’s <a href="https://en.wikipedia.org/wiki/Solar_Maximum_Mission" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">SolarMax</a> mission was reduced by <a href="http://www.svengrahn.pp.se/trackind/RORSAT/RORSAT.html#Kosmos-1867" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">anomalous gamma ray emissions from these leaking higher-orbit reactors</a>. Collisions among the remaining reactors in orbit are likely over the next few hundred years (<a href="https://www.sciencedirect.com/science/article/pii/027311779190540Z" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">paper</a>). Near future use of nuclear power in space may include NASA’s <a href="https://en.wikipedia.org/wiki/Kilopower" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Kilopower reactor</a> and <a href="https://en.wikipedia.org/wiki/Advanced_Stirling_radioisotope_generator" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Advanced Stirling Radioisotope Generator</a> (<a href="https://web.archive.org/web/20160420084629/https://prod.nais.nasa.gov/eps/eps_data/165279-OTHER-005-001.pdf" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">pdf</a>, but <a href="https://cen.acs.org/energy/nuclear-power/NASA-thinks-nuclear-reactors-supply/98/i19" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">here’s a good writeup</a>), and potentially even <a href="https://theconversation.com/to-safely-explore-the-solar-system-and-beyond-spaceships-need-to-go-faster-nuclear-powered-rockets-may-be-the-answer-137967" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">nuclear rockets</a>: DARPA just <a href="https://www.prnewswire.com/news-releases/gryphon-technologies-wins-14m-darpa-task-order-to-support-demonstration-and-development-of-the-high-assay-low-enriched-uranium-nuclear-thermal-propulsion-system-301140093.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">awarded a $14 million contract for a Nuclear Thermal Rocket design for cislunar operations</a> as part of their <a href="https://arstechnica.com/science/2020/06/the-us-military-is-getting-serious-about-nuclear-thermal-propulsion/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">DRACO</a> program (which we wrote about in <a href="https://orbitalindex.com/archive/2020-07-15-Issue-73/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Issue No. 73</a>). Related: <a href="https://web.archive.org/web/20170503083646/https://ston.jsc.nasa.gov/collections/TRS//_techrep/TP-1999-208856.pdf" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">This 158 page NASA PDF</a> contains a delightfully detailed history of space debris and was a primary source for this writeup.</p>
 
 <div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
 
-                        </td>
-                    </tr>
-                </tbody>
+</td>
+</tr>
+</tbody>
 </table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
+<!--[if mso]>
+</td>
+<![endif]-->
 
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
-            </td>
-        </tr>
-    </tbody>
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
 </table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageCardBlock highlight" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnImageCardBlockOuter">
-        <tr>
-            <td class="mcnImageCardBlockInner" valign="top" style="padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnImageCardBlockOuter">
+<tr>
+<td class="mcnImageCardBlockInner" valign="top" style="padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 
 <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnImageCardBottomContent highlight" width="100%" style="background-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody>
+<tbody>
 <tr>
-        <td class="mcnImageCardBottomImageContent" align="center" valign="top" style="padding-top: 0px;padding-right: 0px;padding-bottom: 0;padding-left: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<td class="mcnImageCardBottomImageContent" align="center" valign="top" style="padding-top: 0px;padding-right: 0px;padding-bottom: 0;padding-left: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 
 
-            <a href="https://en.wikipedia.org/wiki/US-A#/media/File:RORSAT_by_Ronald_C._Wittmann,_1982.jpg" title="" class="" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<a href="https://en.wikipedia.org/wiki/US-A#/media/File:RORSAT_by_Ronald_C._Wittmann,_1982.jpg" title="" class="" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 
 
-            <img alt="" src="https://mcusercontent.com/e215b9e6f9a105b2c34f627a3/images/3bb9cd2c-4d7c-48ca-a58e-8ac7cd353198.jpg" width="564" style="max-width: 1000px;border-top-left-radius: 0%;border-top-right-radius: 0%;border-bottom-right-radius: 0%;border-bottom-left-radius: 0%;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class="mcnImage">
-            </a>
+<img alt="" src="https://mcusercontent.com/e215b9e6f9a105b2c34f627a3/images/3bb9cd2c-4d7c-48ca-a58e-8ac7cd353198.jpg" width="564" style="max-width: 1000px;border-top-left-radius: 0%;border-top-right-radius: 0%;border-bottom-right-radius: 0%;border-bottom-left-radius: 0%;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class="mcnImage">
+</a>
 
-        </td>
-    </tr>
-    <tr>
-        <td class="mcnTextContent" valign="top" style='padding: 9px 18px;font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);line-height: 150%;' width="546">
-            <p style='font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);line-height: 150%;'>The Soviet Union <a href="https://en.wikipedia.org/wiki/US-A" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">launched nuclear-powered ocean radar reconnaissance satellites in pairs to track U.S. ships</a>.</p>
+</td>
+</tr>
+<tr>
+<td class="mcnTextContent" valign="top" style='padding: 9px 18px;font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);line-height: 150%;' width="546">
+<p style='font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);line-height: 150%;'>The Soviet Union <a href="https://en.wikipedia.org/wiki/US-A" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">launched nuclear-powered ocean radar reconnaissance satellites in pairs to track U.S. ships</a>.</p>
 
 <div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
 
-        </td>
-    </tr>
+</td>
+</tr>
 </tbody>
 </table>
 
 
 
 
-            </td>
-        </tr>
-    </tbody>
+</td>
+</tr>
+</tbody>
 </table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock highlight" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnTextBlockOuter">
-        <tr>
-            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<!--[if mso]>
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+<tr>
+<![endif]-->
 
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
-                    <tbody>
+<!--[if mso]>
+<td valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
+<tbody>
 <tr>
 
-                        <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
+<td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
 
-                            <p style="line-height: 150%;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;"><strong id="news-in-brief">News in brief.</strong> In the latest installment of the ongoing space software testing saga, an independent <a href="https://arstechnica.com/science/2020/10/nasa-safety-panel-raises-doubts-about-software-testing-for-moon-missions/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">safety panel has reported “great concern” about NASA’s plan for testing lunar mission software</a> (and wonders why they didn’t learn from the Boeing Starliner failure last December); a Soyuz-2.1b launched three Russian government Gonets satellites and 15 smallsats, including two <a href="https://spacenews.com/kepler-launches-first-internally-produced-satellites/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">home-built</a> 6U CubeSats for Kepler Communications for their upcoming IoT constellation and four Spire satellites—some of which are <a href="https://spacenews.com/spire-adding-cross-links-to-cubesat-constellation/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">testing inter-satellite crosslinks</a>; a <a href="https://www.nasa.gov/press-release/nasa-science-cargo-heads-to-space-station-on-northrop-grumman-resupply-mission" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Northrop Grumman Cygnus resupply spacecraft launched to the ISS</a> carrying over 3,600 kg of supplies, including a <a href="https://www.nasa.gov/feature/boldly-go-nasa-s-new-space-toilet-offers-more-comfort-improved-efficiency-for-deep-space" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">new toilet</a>, cancer medicine research, plant growth experiments 🥗, and a commercial <a href="https://futurism.com/neoscope/biotech-company-manufacture-artificial-retinas-space" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">experiment in bioprinting of retinas</a>; Roger Penrose, Reinhard Genzel, and Andrea Ghez <a href="https://www.nobelprize.org/prizes/physics/2020/press-release/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">won the Nobel Prize</a> for their work on black holes in general and <a href="https://www.youtube.com/watch?v=UM4o9xft1Lw" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">in the center of the Milky Way</a>—Ghez becomes only the <a href="https://www.washingtonpost.com/science/2020/10/06/nobel-prize-physics/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">fourth woman to win the Nobel Prize in Physics</a>; after a series of delays, the NROL-44 <a href="https://arstechnica.com/science/2020/09/delta-iv-heavy-rocket-delayed-again-raising-concerns-of-aging-infrastructure/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Delta IV Heavy launch was again aborted seconds before liftoff</a>, raising concerns of aging ground support equipment infrastructure; and, construction of SpaceX’s first Super Heavy booster prototype <a href="https://twitter.com/BocaChicaGal/status/1311672805994516480" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">has started</a> (<em>ed. a few weeks ago we unintentionally intimated that SN8 might fly in around a week—this was a timeframe for completion, not flight, and it is now on the pad for pressure tests followed by a static fire</em>).</p>
+<p style="line-height: 150%;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;"><strong id="news-in-brief">News in brief.</strong> In the latest installment of the ongoing space software testing saga, an independent <a href="https://arstechnica.com/science/2020/10/nasa-safety-panel-raises-doubts-about-software-testing-for-moon-missions/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">safety panel has reported “great concern” about NASA’s plan for testing lunar mission software</a> (and wonders why they didn’t learn from the Boeing Starliner failure last December); a Soyuz-2.1b launched three Russian government Gonets satellites and 15 smallsats, including two <a href="https://spacenews.com/kepler-launches-first-internally-produced-satellites/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">home-built</a> 6U CubeSats for Kepler Communications for their upcoming IoT constellation and four Spire satellites—some of which are <a href="https://spacenews.com/spire-adding-cross-links-to-cubesat-constellation/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">testing inter-satellite crosslinks</a>; a <a href="https://www.nasa.gov/press-release/nasa-science-cargo-heads-to-space-station-on-northrop-grumman-resupply-mission" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Northrop Grumman Cygnus resupply spacecraft launched to the ISS</a> carrying over 3,600 kg of supplies, including a <a href="https://www.nasa.gov/feature/boldly-go-nasa-s-new-space-toilet-offers-more-comfort-improved-efficiency-for-deep-space" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">new toilet</a>, cancer medicine research, plant growth experiments 🥗, and a commercial <a href="https://futurism.com/neoscope/biotech-company-manufacture-artificial-retinas-space" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">experiment in bioprinting of retinas</a>; Roger Penrose, Reinhard Genzel, and Andrea Ghez <a href="https://www.nobelprize.org/prizes/physics/2020/press-release/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">won the Nobel Prize</a> for their work on black holes in general and <a href="https://www.youtube.com/watch?v=UM4o9xft1Lw" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">in the center of the Milky Way</a>—Ghez becomes only the <a href="https://www.washingtonpost.com/science/2020/10/06/nobel-prize-physics/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">fourth woman to win the Nobel Prize in Physics</a>; after a series of delays, the NROL-44 <a href="https://arstechnica.com/science/2020/09/delta-iv-heavy-rocket-delayed-again-raising-concerns-of-aging-infrastructure/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Delta IV Heavy launch was again aborted seconds before liftoff</a>, raising concerns of aging ground support equipment infrastructure; and, construction of SpaceX’s first Super Heavy booster prototype <a href="https://twitter.com/BocaChicaGal/status/1311672805994516480" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">has started</a> (<em>ed. a few weeks ago we unintentionally intimated that SN8 might fly in around a week—this was a timeframe for completion, not flight, and it is now on the pad for pressure tests followed by a static fire</em>).</p>
 
 <div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
 
-                        </td>
-                    </tr>
-                </tbody>
+</td>
+</tr>
+</tbody>
 </table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
+<!--[if mso]>
+</td>
+<![endif]-->
 
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
-            </td>
-        </tr>
-    </tbody>
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
 </table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock highlight" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnTextBlockOuter">
-        <tr>
-            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
+<tbody class="mcnTextBlockOuter">
+<tr>
+<td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<!--[if mso]>
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+<tr>
+<![endif]-->
 
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
-                    <tbody>
+<!--[if mso]>
+<td valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
+<tbody>
 <tr>
 
-                        <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
+<td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
 
-                            <strong>Etc.</strong>
+<strong>Etc.</strong>
 <ul>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Rosatom released a <a href="https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">previously classified documentary video of the 50 megaton Tsar Bomba thermonuclear test</a>, the largest nuclear detonation in history.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">NASA and the US DoE <a href="https://spacenews.com/nasa-to-seek-proposals-for-lunar-nuclear-power-system/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">will be seeking proposals later this year for a compact nuclear power system for long term lunar and martian exploration</a>. Meanwhile, on Earth, the <a href="https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Tiny NuScale reactor just received safety approval</a>.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Rosatom released a <a href="https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">previously classified documentary video of the 50 megaton Tsar Bomba thermonuclear test</a>, the largest nuclear detonation in history.</li>
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">NASA and the US DoE <a href="https://spacenews.com/nasa-to-seek-proposals-for-lunar-nuclear-power-system/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">will be seeking proposals later this year for a compact nuclear power system for long term lunar and martian exploration</a>. Meanwhile, on Earth, the <a href="https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Tiny NuScale reactor just received safety approval</a>.</li>
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 <a href="https://toughsf.blogspot.com/2019/09/nter-nuclear-thermal-electric-rocket.html" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">ToughSF digs into Nuclear Thermal Electric Rockets</a>, a hybrid nuclear propulsion system capable of most of the acceleration of a traditional NTR, but with the high Isp of an electric thruster. </li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">ESA’s Solar Orbiter just made its <a href="https://sci.esa.int/web/solar-orbiter/-/solar-orbiter-releases-first-data-to-the-public" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">first public data release</a>.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">A <a href="https://www.theguardian.com/world/2020/oct/05/marine-poisoning-in-kamchatka-russia-may-be-rocket-fuel-leak" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Russian rocket fuel leak is the likely cause of marine animal deaths</a>.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">More about how the ISS’s astronauts are <a href="https://www.technologyreview.com/2020/09/30/1009150/astronauts-iss-hunting-mystery-air-leak-micrometeoroids/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">hunting for the station’s slow air leak</a>, now determined to be somewhere in the Zvezda module. The current crew has been tasked with finding the leak before Crew-1 launches on October 31st 🎃.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><a href="https://jatan.space/missing-science-from-mangalyaan/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">India’s Mars orbiter completes six years at the red planet, but where is the science?</a></li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">In relation to the earlier mention of NASA’s Vomit Comet, here’s an <a href="https://youtu.be/xdJwG_9kF8s" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">explainer video on parabolic flights</a>, and a <a href="https://youtu.be/LWGJA9i18Co" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">zero-g music video</a> shot on one by OK Go. 📺</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">An <a href="https://www.theatlantic.com/technology/archive/2014/11/grammar-in-space-are-you-in-orbit-or-on-orbit/381522/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">exploration into the grammatical difference between ‘on orbit’ and ‘in orbit’</a>. From the article: …<em>‘in orbit’ is used to describe the placing of a satellite or object OR to its specific location. ‘On Orbit’ typically is used to refer to where an action, experiment, or operation is taking place.  In other words, the space shuttle is described as being ‘in orbit,’ while the experiments conducted on the shuttle are referred to as being conducted ‘on orbit.’</em>
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">ESA’s Solar Orbiter just made its <a href="https://sci.esa.int/web/solar-orbiter/-/solar-orbiter-releases-first-data-to-the-public" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">first public data release</a>.</li>
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">A <a href="https://www.theguardian.com/world/2020/oct/05/marine-poisoning-in-kamchatka-russia-may-be-rocket-fuel-leak" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Russian rocket fuel leak is the likely cause of marine animal deaths</a>.</li>
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">More about how the ISS’s astronauts are <a href="https://www.technologyreview.com/2020/09/30/1009150/astronauts-iss-hunting-mystery-air-leak-micrometeoroids/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">hunting for the station’s slow air leak</a>, now determined to be somewhere in the Zvezda module. The current crew has been tasked with finding the leak before Crew-1 launches on October 31st 🎃.</li>
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><a href="https://jatan.space/missing-science-from-mangalyaan/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">India’s Mars orbiter completes six years at the red planet, but where is the science?</a></li>
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">In relation to the earlier mention of NASA’s Vomit Comet, here’s an <a href="https://youtu.be/xdJwG_9kF8s" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">explainer video on parabolic flights</a>, and a <a href="https://youtu.be/LWGJA9i18Co" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">zero-g music video</a> shot on one by OK Go. 📺</li>
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">An <a href="https://www.theatlantic.com/technology/archive/2014/11/grammar-in-space-are-you-in-orbit-or-on-orbit/381522/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">exploration into the grammatical difference between ‘on orbit’ and ‘in orbit’</a>. From the article: …<em>‘in orbit’ is used to describe the placing of a satellite or object OR to its specific location. ‘On Orbit’ typically is used to refer to where an action, experiment, or operation is taking place.  In other words, the space shuttle is described as being ‘in orbit,’ while the experiments conducted on the shuttle are referred to as being conducted ‘on orbit.’</em>
 </li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 <a href="https://www.bbc.com/future/article/20200901-the-radioactive-risk-of-sunken-nuclear-soviet-submarines" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Russia’s ‘slow-motion Chernobyl’ at sea</a>.</li>
-	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 <a href="https://en.wikipedia.org/wiki/Starfish_Prime" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Starfish Prime</a> was a US high-altitude (400 km) nuclear test, the largest nuclear test conducted in outer space, whose “<em>famously bad idea dispersed radiation across the globe, spawning tropical auroras and delivering a debilitating electromagnetic pulse to Hawaiian cities</em>” [<a href="https://web.archive.org/web/20170503083646/https://ston.jsc.nasa.gov/collections/TRS//_techrep/TP-1999-208856.pdf" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">pdf</a>] (including knocking out 300 streetlights [<a href="http://ece-research.unm.edu/summa/notes/SDAN/0031.pdf" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">pdf</a>]), and created artificial radiation belts that <a href="https://www.discovermagazine.com/the-sciences/the-50th-anniversary-of-starfish-prime-the-nuke-that-shook-the-world" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">disabled six or more satellites</a> and were detectable for 5 years. Related: some light reading about the (as yet hypothetical) devastating <a href="https://www.dropbox.com/s/7s04v5z4fn953p9/a531197.pdf?dl=0" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">collateral damage to satellites of an EMP attack (pdf)</a>.</li>
 </ul>
 
 <div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
 
-                        </td>
-                    </tr>
-                </tbody>
+</td>
+</tr>
+</tbody>
 </table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
+<!--[if mso]>
+</td>
+<![endif]-->
 
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
-            </td>
-        </tr>
-    </tbody>
+<!--[if mso]>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
 </table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageCardBlock highlight" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnImageCardBlockOuter">
-        <tr>
-            <td class="mcnImageCardBlockInner" valign="top" style="padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnImageCardBlockOuter">
+<tr>
+<td class="mcnImageCardBlockInner" valign="top" style="padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 
 
 
 <table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnImageCardTopContent highlight" width="100%" style="background-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody>
+<tbody>
 <tr>
-        <td class="mcnTextContent" valign="top" style='padding: 18px 18px 0px;font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);line-height: 150%;' width="546">
-            <div style="text-align: left;">
+<td class="mcnTextContent" valign="top" style='padding: 18px 18px 0px;font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);line-height: 150%;' width="546">
+<div style="text-align: left;">
 <p style='font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);line-height: 150%;'><span style="font-size:16px"><a href="https://www.nasa.gov/image-feature/moon-shadow-over-jupiter" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Io casts a shadow on the face of Jupiter</a>, as caught by Juno.</span></p>
 </div>
 
 <div id="accelSnackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
 
-        </td>
-    </tr>
-    <tr>
-        <td class="mcnImageCardTopImageContent" align="center" valign="top" style="padding-top: 9px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+</td>
+</tr>
+<tr>
+<td class="mcnImageCardTopImageContent" align="center" valign="top" style="padding-top: 9px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 
 
-            <a href="https://www.nasa.gov/image-feature/moon-shadow-over-jupiter" title="" class="" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<a href="https://www.nasa.gov/image-feature/moon-shadow-over-jupiter" title="" class="" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
 
 
-            <img alt="" src="https://mcusercontent.com/e215b9e6f9a105b2c34f627a3/images/c392a41c-95b0-4845-ba62-85d8a6ef06fe.jpg" width="564" style="max-width: 999px;border-top-left-radius: 0%;border-top-right-radius: 0%;border-bottom-right-radius: 0%;border-bottom-left-radius: 0%;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class="mcnImage">
+<img alt="" src="https://mcusercontent.com/e215b9e6f9a105b2c34f627a3/images/c392a41c-95b0-4845-ba62-85d8a6ef06fe.jpg" width="564" style="max-width: 999px;border-top-left-radius: 0%;border-top-right-radius: 0%;border-bottom-right-radius: 0%;border-bottom-left-radius: 0%;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class="mcnImage">
 
-            </a>
+</a>
 
-        </td>
-    </tr>
+</td>
+</tr>
 </tbody>
 </table>
 
 
-            </td>
-        </tr>
-    </tbody>
+</td>
+</tr>
+</tbody>
 </table>
 </td>
-                            </tr>
-                            <tr>
-                                
-                            </tr>
-                        </table>
-                        <!--[if (gte mso 9)|(IE)]>
-                        </td>
-                        </tr>
-                        </table>
-                        <![endif]-->
-                        <!-- // END TEMPLATE -->
+</tr>
+<tr>
+
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!-- // END TEMPLATE -->

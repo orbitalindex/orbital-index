@@ -1,4 +1,12 @@
-<meta name="viewport" content="width=device-width, user-scalable=no">
+---
+layout: page
+title: Starlink Coverage
+image: "/assets/img/earth-funding.jpg"
+menu: true
+order: 5
+---
+
+<!-- <meta name="viewport" content="width=device-width, user-scalable=no"> -->
 <script src="https://d3js.org/d3.v3.js"></script>
 <script src="https://d3js.org/topojson.v1.min.js"></script>
 <script src='planetaryjs.js'></script>
@@ -48,35 +56,13 @@
     color: black;
   }
 </style>
-<title>Starlink Coverage</title>
 
-<body style="margin:0;background-color:#484820;text-align:center;--menu-open: none; --explanation: none; --help: inline-block;">
-  <div style="z-index: 2;position: fixed;text-align: left;margin: 1em;line-height:2em;">
-    <div id="menu_toggle" style="font-size: 2em;display: inline-block; color:whitesmoke;">⚙</div>
-    <div id="menu" style="display: var(--menu-open);color: whitesmoke;padding: 1em; width: 20em;">
-      <b>Time Controls</b>
-      <div>Real World Time<input id="realtime" type="checkbox" checked></div>
-      <div id="frametime"></div>
-      <div>Speed <span id="speed_out"></span><input id="speed" type="range" min="0" max="12" step="0.1" value="1"></div>
-      <hr>
-      <div id="addresses"></div>
-      <hr>
-      <b>Rotation</b>
-      <div>Auto Rotate <input id="autorotate" type="checkbox" value="true"> </div>
-      <div>Speed<input id="rot_speed" type="range" min="0" max="10" value="1.2" step="0.01"> </div>
-      <hr>
-      <b>Colors</b>
-      <div>Coverage Area<input id="circle_color" type="color" value="#14d400"></div>
-      <div>Coverage Highlight<input id="highlight_color" type="color" value="#F300FF"><input id="highlight_enabled" type="checkbox" checked></div>
-      <div>Satellite<input id="sat_color" type="color" value="#ffc0c0"><input id="sat_enabled" type="checkbox" checked></div>
-      <div>Background<input type="color" value="#484820" oninput="document.body.style.backgroundColor = this.value;"></div>
-      <div>Land<input id="land_color" type="color" value="#645817"></div>
-      <div>Ocean<input id="ocean_color" type="color" value="#203340"></div>
-      <div>Nations<input id="nation_color" type="color" value="#a043a0"><input id="nation_enabled" type="checkbox" checked></div>
-      <div>Ocean Edge<input id="edge_color" type="color" value="#8093a0"><input id="edge_enabled" type="checkbox" checked></div>
-    </div>
-  </div>
-  <div style="color:whitesmoke; z-index: 1; position: relative;">
+
+<!-- <body style="margin:0;background-color:#484820;text-align:center;--menu-open: none; --explanation: none; --help: inline-block;"> -->
+<div id="starlink-coverage" style="height: 50em; width: 150%; margin:0;--menu-open: none; --explanation: none; --help: inline-block;"">
+
+  <canvas id='globe' style="position:absolute;"></canvas>
+  <div style="color:whitesmoke; z-index: 1; position: relative; text-align:center;">
     <div>Degrees From Horizon For Connectivity
       <span class="circle" style="display: var(--help)" onclick="display_help()">?</span>
       <span class="circle" style="display: var(--explanation)" onclick="hide_help()">✖</span>
@@ -86,14 +72,41 @@
     <div style="display: var(--explanation); max-width: 75%; background-color: #00000066; padding: 1em; border-radius: 1em;">
       <div>Degrees From Horizon is the amount you have to tilt your head to look at the satellite when standing in a flat field.</div>
       <br />
-      <div>We believe the initial constellation will have connectivity if the satellite is above 25°, and that this requirement will later be eased to 40° to increase performance. Note: This number is how much of the whole sky (in all directions) will be required to be visible overhead to maintain constant connection to the constellation.</div>
+      <div>We believe the initial constellation will have connectivity if the satellite 25° above the receiver's horizon, and that this requirement will later be eased to 40° to increase performance as satellite density increases. Note: This angle defines the maximum height above the horizon in all directions that can be occulded by any terrain, trees, or other structures.</div>
     </div>
   </div>
-  <div style="bottom: 10px;position: fixed;width: 100%;color: #ffffff55;z-index: 1;">
-    MIT Licensed, Originally Created By <a href="http://droid.cafe/starlink/">Greg Morenz</a> (updated by <a href="http://twitter.com/blach/">Ben Lachman</a>)</div>
 
-  <canvas id='globe' style="position:fixed;top:0;display:block;"></canvas>
-</body>
+</div>
+
+
+<div style="z-index: 2;text-align: left;margin: 1em;line-height:2em;">
+  <div id="menu_toggle" style="font-size: 2em;display: inline-block; color:whitesmoke;">⚙</div>
+  <div id="menu" style="display: var(--menu-open);color: whitesmoke;padding: 1em; width: 20em;">
+    <b>Time Controls</b>
+    <div>Real World Time<input id="realtime" type="checkbox" checked></div>
+    <div id="frametime"></div>
+    <div>Speed <span id="speed_out"></span><input id="speed" type="range" min="0" max="12" step="0.1" value="1"></div>
+    <hr>
+    <div id="addresses"></div>
+    <hr>
+    <b>Rotation</b>
+    <div>Auto Rotate <input id="autorotate" type="checkbox" value="true"> </div>
+    <div>Speed<input id="rot_speed" type="range" min="0" max="10" value="1.2" step="0.01"> </div>
+    <hr>
+    <b>Colors</b>
+    <div>Coverage Area<input id="circle_color" type="color" value="#14d400"></div>
+    <div>Coverage Highlight<input id="highlight_color" type="color" value="#F300FF"><input id="highlight_enabled" type="checkbox" checked></div>
+    <div>Satellite<input id="sat_color" type="color" value="#ffc0c0"><input id="sat_enabled" type="checkbox" checked></div>
+    <div>Background<input type="color" value="#484820" oninput="document.body.style.backgroundColor = this.value;"></div>
+    <div>Land<input id="land_color" type="color" value="#645817"></div>
+    <div>Ocean<input id="ocean_color" type="color" value="#203340"></div>
+    <div>Nations<input id="nation_color" type="color" value="#a043a0"><input id="nation_enabled" type="checkbox" checked></div>
+    <div>Ocean Edge<input id="edge_color" type="color" value="#8093a0"><input id="edge_enabled" type="checkbox" checked></div>
+  </div>
+</div>
+<div style="bottom: 10px;width: 100%;color: #ffffff55;z-index: 1;">
+  MIT Licensed, Originally Created By <a href="http://droid.cafe/starlink/">Greg Morenz</a> (updated by <a href="http://twitter.com/blach/">Ben Lachman</a>)</div>
+
 <script>
   var a = 2 * Math.PI * (5 / 8);
   var b = 2 * Math.PI * (7 / 8);
@@ -324,10 +337,10 @@
     var globe = null;
 
     var resize = function() {
-      var width = window.innerWidth + (options.extraWidth || 0);
-      var height = window.innerHeight + (options.extraHeight || 0);
-      globe.canvas.width = width;
-      globe.canvas.height = height;
+      var width = container.offsetWidth + (options.extraWidth || 0);
+      var height = container.offsetHeight + (options.extraHeight || 0);
+      var width = globe.canvas.width = width;
+      var height = globe.canvas.height = height;
       globe.projection.translate([width / 2, height / 2]);
     };
 
@@ -355,8 +368,8 @@
     options = options || {};
     return function(planet) {
       planet.onInit(function() {
-        var width = window.innerWidth + (options.extraWidth || 0);
-        var height = window.innerHeight + (options.extraHeight || 0);
+        var width = container.offsetWidth + (options.extraWidth || 0);
+        var height = container.offsetHeight + (options.extraHeight || 0);
         planet.projection.scale(Math.min(width, height) / 2);
       });
     };
@@ -398,6 +411,7 @@
   };
 
   let canvas = document.getElementById("globe");
+  let container = document.getElementById("starlink-coverage");
 
   var planet = planetaryjs.planet();
   planet.loadPlugin(autocenter({

@@ -204,13 +204,15 @@ function pin_address(i, address) {
 }
 
 function display_help() {
-  document.body.style.setProperty("--explanation", "inline-block");
-  document.body.style.setProperty("--help", "none");
+  const style = document.documentElement.style
+  style.setProperty("--explanation", "inline-block");
+  style.setProperty("--help", "none");
 }
 
 function hide_help() {
-  document.body.style.setProperty("--explanation", "none");
-  document.body.style.setProperty("--help", "inline-block");
+  const style = document.documentElement.style
+  style.setProperty("--explanation", "none");
+  style.setProperty("--help", "inline-block");
 }
 
 Math.radians = function(degrees) {

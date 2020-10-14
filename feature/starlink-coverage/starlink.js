@@ -448,3 +448,6 @@ fetch("starlink-data.txt")
 function init_gmaps() {
   geocoder = new google.maps.Geocoder();
 }
+
+hide_help();
+hide_menu();

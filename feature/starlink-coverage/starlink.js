@@ -37,9 +37,33 @@ autorotate_elem.onclick = _ => planet.plugins.autorotate.set_paused(!autorotate_
 
 let menu_active = false;
 let menu_toggle = document.getElementById("menu_toggle");
+
 menu_toggle.onclick = e => {
   menu_active = !menu_active;
-  document.body.style.setProperty("--menu-open", menu_active ? "block" : "none");
+
+  menu_active ? display_menu() : hide_menu();
+}
+
+function display_menu() {
+  const style = document.documentElement.style
+  style.setProperty("--menu-open", "block");
+}
+
+function hide_menu() {
+  const style = document.documentElement.style
+  style.setProperty("--menu-open", "none");
+}
+
+function display_help() {
+  const style = document.documentElement.style
+  style.setProperty("--explanation", "inline-block");
+  style.setProperty("--help", "none");
+}
+
+function hide_help() {
+  const style = document.documentElement.style
+  style.setProperty("--explanation", "none");
+  style.setProperty("--help", "inline-block");
 }
 
 let rot_speed = document.getElementById("rot_speed");
@@ -203,18 +227,6 @@ function pin_address(i, address) {
   })
 }
 
-function display_help() {
-  const style = document.documentElement.style
-  style.setProperty("--explanation", "inline-block");
-  style.setProperty("--help", "none");
-}
-
-function hide_help() {
-  const style = document.documentElement.style
-  style.setProperty("--explanation", "none");
-  style.setProperty("--help", "inline-block");
-}
-
 Math.radians = function(degrees) {
   return degrees / 180 * Math.PI;
 };
@@ -233,8 +245,8 @@ function autocenter(options) {
   var resize = function() {
     var width = container.offsetWidth + (options.extraWidth || 0);
     var height = container.offsetHeight + (options.extraHeight || 0);
-    var width = globe.canvas.width = width;
-    var height = globe.canvas.height = height;
+    globe.canvas.width = width;
+    globe.canvas.height = height;
     globe.projection.translate([width / 2, height / 2]);
   };
 

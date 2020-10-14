@@ -55,7 +55,9 @@ menu:
   - title:             About
     url:               /about/
   - title:             Space Funding
-    url:               https://orbitalindex.com/feature/space-entrepreneurship-funding-sources
+    url:               /feature/space-entrepreneurship-funding-sources
+  - title:             Starlink Coverage
+    url:               /feature/starlink-coverage/
   - title:             Open Source Space Resources
     url:               https://github.com/orbitalindex/awesome-space
 

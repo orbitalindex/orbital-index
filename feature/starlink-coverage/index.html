@@ -15,6 +15,15 @@ order: 5
   :root {
     --explanation: "none";
     --help: "inline-block";
+    --menu-open: "none";
+  }
+
+  #starlink-coverage * {
+    line-height: 1.25em;
+  }
+
+  #menu * {
+    line-height: 1.75em;
   }
 
   #menu input {
@@ -25,9 +34,12 @@ order: 5
     float: none;
   }
 
-
   #menu input[type=search] {
     width: 16em;
+  }
+
+  #menu hr {
+    margin: .5rem;
   }
 
   #angle {
@@ -62,56 +74,63 @@ order: 5
   }
 </style>
 
-<div style="padding-bottom: 36px;width: 100%;color: #ffffff55;z-index: 1;">
+<!-- <div style="padding-bottom: 36px;width: 100%;color: #ffffff55; z-index: 1;">
   MIT Licensed, Originally Created By <a href="http://droid.cafe/starlink/">Greg Morenz</a> (updated by <a href="https://twitter.com/blach/">Ben Lachman</a>)
-</div>
+</div> -->
 
-<div id="starlink-coverage" style="height: 50em; width: 150%; margin:0;">
-  <canvas id='globe' style="position:absolute;"></canvas>
+<div id="starlink-coverage" style="height: 40em; width: 110%; margin:0;">
+  <canvas id='globe' style="z-index: 0; position: absolute;"></canvas>
+
+  <!-- Menu -->
+  <div style="z-index: 2; text-align: left; margin: 1em; line-height:2em; position: absolute;">
+    <div id="menu_toggle" style="font-size: 2em;display: inline-block; color:whitesmoke;">⚙</div>
+    <div id="menu" style="display: var(--menu-open); color: whitesmoke; padding: 1em; width: 20em;">
+      <b>Time Controls</b>
+      <div>Real World Time<input id="realtime" type="checkbox" checked></div>
+      <div id="frametime"></div>
+      <div>Speed <span id="speed_out"></span><input id="speed" type="range" min="0" max="12" step="0.1" value="1"></div>
+      <hr>
+      <div id="addresses"></div>
+      <hr>
+      <b>Rotation</b>
+      <div>Auto Rotate <input id="autorotate" type="checkbox" value="true"> </div>
+      <div>Speed<input id="rot_speed" type="range" min="0" max="10" value="1.2" step="0.01"> </div>
+      <hr>
+      <b>Colors</b>
+      <div>Coverage Area<input id="circle_color" type="color" value="#14d400"></div>
+      <div>Coverage Highlight<input id="highlight_color" type="color" value="#F300FF"><input id="highlight_enabled" type="checkbox" checked></div>
+      <div>Satellite<input id="sat_color" type="color" value="#ffc0c0"><input id="sat_enabled" type="checkbox" checked></div>
+      <div>Background<input type="color" value="#484820" oninput="document.body.style.backgroundColor = this.value;"></div>
+      <div>Land<input id="land_color" type="color" value="#645817"></div>
+      <div>Ocean<input id="ocean_color" type="color" value="#203340"></div>
+      <div>Nations<input id="nation_color" type="color" value="#a043a0"><input id="nation_enabled" type="checkbox" checked></div>
+      <div>Ocean Edge<input id="edge_color" type="color" value="#8093a0"><input id="edge_enabled" type="checkbox" checked></div>
+    </div>
+  </div>
+
+  <!-- Angle picker -->
   <div style="color:whitesmoke; z-index: 1; position: relative; text-align:center;">
     <div>Degrees From Horizon For Connectivity
-      <span class="circle" style="display: var(--help)" onclick="display_help()">?</span>
-      <span class="circle" style="display: var(--explanation)" onclick="hide_help()">✖</span>
+      <span class="circle" style="display: var(--help);" onclick="display_help()">?</span>
+      <span class="circle" style="display: var(--explanation)" onclick="hide_help()">✕</span>
     </div>
     <input id="angle" type="range" min="0" max="89.9">
     <div id="angle_text">25°</div>
     <div style="display: var(--explanation); max-width: 75%; background-color: #00000066; padding: 1em; border-radius: 1em;">
       <div>Degrees From Horizon is the amount you have to tilt your head to look at the satellite when standing in a flat field.</div>
       <br />
-      <div>We believe the initial constellation will have connectivity if the satellite 25° above the receiver's horizon, and that this requirement will later be eased to 40° to increase performance as satellite density increases. Note: This angle defines the maximum height above the horizon in all directions that can be occulded by any terrain, trees, or other structures.</div>
+      <div>We believe the initial constellation will have connectivity if the satellite is 25° above the receiver's horizon, and that this requirement will later be eased to 40° to increase performance as satellite density increases. Note: This angle defines the maximum height above the horizon in all directions that can be occluded by any terrain, trees, or other structures.</div>
     </div>
   </div>
 </div>
 
-<div style="z-index: 2;text-align: left;margin: 1em;line-height:2em;">
-  <div id="menu_toggle" style="font-size: 2em;display: inline-block; color:whitesmoke;">⚙</div>
-  <div id="menu" style="display: var(--menu-open);color: whitesmoke;padding: 1em; width: 20em;">
-    <b>Time Controls</b>
-    <div>Real World Time<input id="realtime" type="checkbox" checked></div>
-    <div id="frametime"></div>
-    <div>Speed <span id="speed_out"></span><input id="speed" type="range" min="0" max="12" step="0.1" value="1"></div>
-    <hr>
-    <div id="addresses"></div>
-    <hr>
-    <b>Rotation</b>
-    <div>Auto Rotate <input id="autorotate" type="checkbox" value="true"> </div>
-    <div>Speed<input id="rot_speed" type="range" min="0" max="10" value="1.2" step="0.01"> </div>
-    <hr>
-    <b>Colors</b>
-    <div>Coverage Area<input id="circle_color" type="color" value="#14d400"></div>
-    <div>Coverage Highlight<input id="highlight_color" type="color" value="#F300FF"><input id="highlight_enabled" type="checkbox" checked></div>
-    <div>Satellite<input id="sat_color" type="color" value="#ffc0c0"><input id="sat_enabled" type="checkbox" checked></div>
-    <div>Background<input type="color" value="#484820" oninput="document.body.style.backgroundColor = this.value;"></div>
-    <div>Land<input id="land_color" type="color" value="#645817"></div>
-    <div>Ocean<input id="ocean_color" type="color" value="#203340"></div>
-    <div>Nations<input id="nation_color" type="color" value="#a043a0"><input id="nation_enabled" type="checkbox" checked></div>
-    <div>Ocean Edge<input id="edge_color" type="color" value="#8093a0"><input id="edge_enabled" type="checkbox" checked></div>
-  </div>
-</div>
+<div style="bottom: 10px;width: 100%;color: #ffffff55;z-index: 1;">
+  MIT Licensed, Originally Created By <a href="http://droid.cafe/starlink/">Greg Morenz</a> (updated by <a href="http://twitter.com/blach/">Ben Lachman</a>)</div>
 
 <script src="starlink.js"></script>
 <script>
-  hide_help()
+  hide_help();
+  hide_menu();
 </script>
 
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHqiNKY6kQ9cqusO6hX2EpuUre_KuIq1c&callback=init_gmaps"></script>

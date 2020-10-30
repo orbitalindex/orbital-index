@@ -24,7 +24,7 @@ if __name__ == "__main__":
     try:
         file = sys.argv[1]
     except IndexError:
-        print "Usage: " + os.path.basename(__file__) + " <file>"
+        print("Usage: " + os.path.basename(__file__) + " <file>")
         sys.exit(1)
 
     # start the program

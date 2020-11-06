@@ -132,7 +132,7 @@ image: /assets/icons/icon.png
     display: flex !important
   }
   </style>
-  <div id="fix-img" style="display: flex; flex-direction: row; flex-wrap: nowrap;">
+  <div id="fix-img" style="flex-direction: row; flex-wrap: nowrap;">
     <img data-file-id="1642528" height="200" src="https://mcusercontent.com/e215b9e6f9a105b2c34f627a3/images/9ac9e766-0411-4fa0-83b1-7f4f6be89bf3.jpg" style="border: 0px;width: 162px;height: 200px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="162">
     <img data-file-id="1642532" height="200" src="https://mcusercontent.com/e215b9e6f9a105b2c34f627a3/_compresseds/bb82e85e-a48f-452d-8494-43079310da3c.jpg" style="border: 0px;width: 301px;height: 200px;margin: 0px;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="301">
   </div>

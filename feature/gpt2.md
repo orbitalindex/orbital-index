@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GPT-2 says the Darndest Things about Space
-description: We finetuned GPT-3 on Orbital Index posts and here are the results.
+description: We finetuned GPT-2 on Orbital Index posts and here are the results.
 menu: true
 order: 4
 ---

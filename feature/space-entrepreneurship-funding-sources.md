@@ -192,7 +192,6 @@ Items marked with a 🚀 are space-specific!
   * [Alchemist Accelerator](https://alchemistaccelerator.com/)
   * [Catalyst Accelerator](https://catalystaccelerator.space/) 🚀
   * [Gothams](https://www.gothams.com/) 🚀
-  * [NewSpace NYC](https://newspace.nyc/) 🚀
   * [Techstars Starburst Space Accelerator](https://www.techstars.com/accelerators/starburst-space) (LA) 🚀
   * [Space Ventures Coalition](https://www.alliancesocal.org/community/svc)
   * [Syndicate 708](https://www.syndicate708.com/)  
@@ -306,6 +305,7 @@ Items marked with a 🚀 are space-specific!
   * [NASA Solve](https://www.nasa.gov/solve) - A one-stop-shop for prizes and challenges offered by NASA 🚀
   * [Newspace Business Plan Competition](https://cscf.space/newspace-bpc) 🚀
   * [Space Apps Challenge 2020](https://www.spaceappschallenge.org/) 🚀
+  * [Magnitude.io Space Hackathon](https://magnitude.io/space-hackathon/) 🚀
 
 ### Conferences / Pitch Events
 

@@ -55,6 +55,7 @@ Items marked with a 🚀 are space-specific!
   * [SeedInvest](https://www.seedinvest.com/)
   * [Spaced Ventures](https://www.spacedventures.com/) 🚀
   * [WeFunder](https://wefunder.com/)
+  * [truCrowd](https://us.trucrowd.com/equity/offer-summary/Rogue)
 
 ## Angel Investment
 

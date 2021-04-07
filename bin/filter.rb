@@ -88,6 +88,14 @@ def process(data, force_header: nil, format_for_frontpage: false)
   # Remove any footer and old subscribe regions.
   doc.css('#templateFooter, #subscribe-footer').each(&:remove)
 
+  # Hr tags should not have huge spacing.
+  doc.css('hr').each do |node|
+    if node['style'] !~ /margin:/
+      node['style'] = (node['style'] || '') + '; margin: 12px 0 10px 0;'
+      puts "  Adding margin to HR tag"
+    end
+  end
+
   if format_for_frontpage
     # Remove the email header text, if any.
     doc.css('#templatePreheader').each(&:remove)

@@ -56,6 +56,7 @@ Items marked with a 🚀 are space-specific!
   * [Spaced Ventures](https://www.spacedventures.com/) 🚀
   * [WeFunder](https://wefunder.com/)
   * [truCrowd](https://us.trucrowd.com/equity/offer-summary/Rogue)
+  * [Crowdcube](https://www.crowdcube.com/companies/valkyrie-industries/pitches/boLxkq)
 
 ## Angel Investment
 

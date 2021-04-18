@@ -55,8 +55,8 @@ Items marked with a 🚀 are space-specific!
   * [SeedInvest](https://www.seedinvest.com/)
   * [Spaced Ventures](https://www.spacedventures.com/) 🚀
   * [WeFunder](https://wefunder.com/)
-  * [truCrowd](https://us.trucrowd.com/equity/offer-summary/Rogue)
-  * [Crowdcube](https://www.crowdcube.com/companies/valkyrie-industries/pitches/boLxkq)
+  * [truCrowd](https://us.trucrowd.com/)
+  * [Crowdcube](https://www.crowdcube.com/)
 
 ## Angel Investment
 
@@ -302,6 +302,7 @@ Items marked with a 🚀 are space-specific!
   * [Vernadsky Challenge](https://vernadskychallenge.com/) 🚀
 * US
   * [Air Force AFWERX Challenge](https://afwerxchallenge.com/)
+  * [Herox](https://www.herox.com/crowdsourcing-projects/space?sort=popularity)
   * [GEN Space](https://www.genglobal.org/gen-space) 🚀
   * [Mars City Design Challenge](https://www.marscitydesign.com/) 🚀
   * [NASA Solve](https://www.nasa.gov/solve) - A one-stop-shop for prizes and challenges offered by NASA 🚀

@@ -67,6 +67,22 @@ def process(data, force_header: nil, format_for_frontpage: false)
     end
   end
 
+  # Sponsored icon section
+  doc.css('[style*="border: 5px double"]').each do |possible_sponsor_block|
+    if possible_sponsor_block.text =~ /made possible|generous|sponsor/i
+      if possible_sponsor_block['style'] !~ /background-color: white/
+        possible_sponsor_block['style'] = (possible_sponsor_block['style'] || '') + '; background-color: white;'
+        puts "  Adding white background to sponsor block"
+      end
+      possible_sponsor_block.css('a').each do |logo|
+        if logo['style'] !~ /inline-block/
+          logo['style'] = (logo['style'] || '') + '; display: inline-block;'
+          puts "  Centering sponsor logo"
+        end
+      end
+    end
+  end
+
   # Strong areas are section titles and should have internal anchors for linking to them.
   doc.css("a.para").each(&:remove)
 

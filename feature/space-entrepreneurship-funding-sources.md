@@ -15,16 +15,16 @@ Here's the funding source breakdown:
 
 <!-- Start TOC (do not remove me) -->
 
-* [Traditional Crowdfunding](#traditional-crowdfunding-no-equity)
-* [Equity Crowdfunding](#equity-crowdfunding)
-* [Angel Investment](#angel-investment)
-* [Incubator and Accelerator Programs](#incubator-and-accelerator-programs)
-* [Venture Capital](#venture-capital)
-* [Government Entities & Foundations](#government-entities--foundations)
-* [Other](#other)
-  * [Research Funding](#research-funding)
-  * [Challenges / Hackathons](#challenges--hackathons)
-  * [Conferences / Pitch Events](#conferences--pitch-events)
+- [Traditional Crowdfunding (no equity)](#traditional-crowdfunding-no-equity)
+- [Equity Crowdfunding](#equity-crowdfunding)
+- [Angel Investment](#angel-investment)
+- [Incubator and Accelerator Programs](#incubator-and-accelerator-programs)
+- [Venture Capital](#venture-capital)
+- [Government Entities & Foundations](#government-entities--foundations)
+- [Other](#other)
+  - [Research Funding](#research-funding)
+  - [Challenges / Hackathons](#challenges--hackathons)
+  - [Conferences / Pitch Events](#conferences--pitch-events)
 
 <!-- End TOC (do not remove me) -->
 
@@ -233,6 +233,7 @@ Items marked with a 🚀 are space-specific!
   * [Darwin Ventures](https://www.darwinvc.com/)
   * [Data Collective](https://www.dcvc.com/about.html)
   * [Dcode](https://dcode.co/)
+  * [E2MC](https://www.e2mc.space) 🚀
   * [Future Ventures](https://future.ventures/)
   * [Hemisphere Ventures](https://www.hemisphere.com/index.html)
   * [Khosla Ventures](https://www.khoslaventures.com/)
@@ -269,8 +270,11 @@ Items marked with a 🚀 are space-specific!
     * [NASA SBIRs](https://sbir.nasa.gov/) 🚀
     * [NASA NextSTEP](https://www.nasa.gov/content/nextstep-overview) 🚀
     * [Startup NASA](https://technology.nasa.gov/startup) 🚀
-  * [NSF SBIRs](https://seedfund.nsf.gov/) - These are open-ended, so if you can demonstrate that your technology is risky and impactful, you have a shot. Many states want their companies to get grants, so they have SBIR centers to help you.
-  * [Other US SBIRs](https://www.sbir.gov/) (DOD, DOE, etc.)
+  * [OTAs via industry consortia](https://aida.mitre.org/ota/existing-ota-consortia/)
+  * SBIRs
+    * [NSF SBIRs](https://seedfund.nsf.gov/) - These are open-ended, so if you can demonstrate that your technology is risky and impactful, you have a shot. Many states want their companies to get grants, so they have SBIR centers to help you.
+    * [SpaceForce SBIRs](https://www.afwerx.af.mil/sbir.html) (still run through the Air Force) 🚀
+    * [Other US SBIRs](https://www.sbir.gov/) (DOD, DOE, etc.)
   * [Small Business Administration Loans & Grants](https://www.sba.gov/funding-programs)
   * [Space Florida](https://www.spaceflorida.gov/) 🚀
 

@@ -70,6 +70,8 @@ def process(data, force_header: nil, format_for_frontpage: false)
   # Sponsored icon section
   doc.css('[style*="border: 5px double"]').each do |possible_sponsor_block|
     if possible_sponsor_block.text =~ /made possible|generous|sponsor/i
+      # possible_sponsor_block.remove
+
       if possible_sponsor_block['style'] !~ /background-color: white/
         possible_sponsor_block['style'] = (possible_sponsor_block['style'] || '') + '; background-color: white;'
         puts "  Adding white background to sponsor block"

@@ -234,6 +234,7 @@ Items marked with a 🚀 are space-specific!
   * [Darwin Ventures](https://www.darwinvc.com/)
   * [Data Collective](https://www.dcvc.com/about.html)
   * [Dcode](https://dcode.co/)
+  * [Draper Cygnus](https://drapercygnus.vc) (focusing on LATAM founders)
   * [E2MC](https://www.e2mc.space) 🚀
   * [Future Ventures](https://future.ventures/)
   * [Hemisphere Ventures](https://www.hemisphere.com/index.html)

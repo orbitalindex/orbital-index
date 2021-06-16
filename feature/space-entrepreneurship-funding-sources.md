@@ -229,6 +229,7 @@ Items marked with a 🚀 are space-specific!
   * [Seraphim Capital](https://seraphimcapital.co.uk/) 🚀
 * US
   * [AME Cloud Ventures](https://www.amecloudventures.com/)
+  * [BoostVC](https://www.boost.vc/)
   * [Bessemer Venture](https://www.bvp.com/)
   * [Darwin Ventures](https://www.darwinvc.com/)
   * [Data Collective](https://www.dcvc.com/about.html)

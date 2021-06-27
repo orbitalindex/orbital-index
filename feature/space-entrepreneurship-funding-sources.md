@@ -300,18 +300,17 @@ Items marked with a 🚀 are space-specific!
 
 * Australia
   * [Gravity Challenge](https://gravitychallenge.space/) 🚀
-* New Zealand
-  * [NZ Aerospace Challenge](https://nzaerospacechallenge.com/) 🚀
 * Ukraine
   * [Vernadsky Challenge](https://vernadskychallenge.com/) 🚀
+  * [Spacetech Europe Online Hackathon](https://www.americahousekyiv.org/spacetech-europe-online-hackathon) - December 3-5, 2021 🚀
 * US
   * [Air Force AFWERX Challenge](https://afwerxchallenge.com/)
   * [Herox](https://www.herox.com/crowdsourcing-projects/space?sort=popularity)
-  * [GEN Space](https://www.genglobal.org/gen-space) 🚀
-  * [Mars City Design Challenge](https://www.marscitydesign.com/) 🚀
+  * [GEN Space](https://www.genglobal.org/index.php/gen-space) 🚀
   * [NASA Solve](https://www.nasa.gov/solve) - A one-stop-shop for prizes and challenges offered by NASA 🚀
   * [Newspace Business Plan Competition](https://cscf.space/newspace-bpc) 🚀
-  * [Space Apps Challenge 2020](https://www.spaceappschallenge.org/) 🚀
+  * [Space Apps Challenge](https://www.spaceappschallenge.org/) 🚀
+  * [Space for Food Student Hackathon by the Yield Lab Institute](https://www.spaceforfood.org/hackathon) - Fall 2021
   * [Magnitude.io Space Hackathon](https://magnitude.io/space-hackathon/) 🚀
 
 ### Conferences / Pitch Events

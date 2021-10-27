@@ -190,6 +190,7 @@ Items marked with a 🚀 are space-specific!
   * [UAE Newspace Innovation](https://kryptolabs.com/en/startup-programs#newspace) 🚀
 * UK
   * [Harwell Campus](https://www.harwellcampus.com/space-cluster/) 🚀
+  * [Seraphim Space Camp](https://seraphim.vc/accelerator/) 🚀
 * US
   * [Alchemist Accelerator](https://alchemistaccelerator.com/)
   * [Catalyst Accelerator](https://catalystaccelerator.space/) 🚀
@@ -226,7 +227,7 @@ Items marked with a 🚀 are space-specific!
   * [First Cut Ventures](https://www.firstcut.vc/)
   * [Tuhua Ventures](https://www.tuhuaventures.co.nz/)
 * UK
-  * [Seraphim Capital](https://seraphimcapital.co.uk/) 🚀
+  * [Seraphim](https://seraphim.vc/) 🚀
 * US
   * [AME Cloud Ventures](https://www.amecloudventures.com/)
   * [BoostVC](https://www.boost.vc/)

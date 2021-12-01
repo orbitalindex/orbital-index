@@ -28,6 +28,4 @@ You can find us in a bunch other places as well:
 
 Twitter: [**@orbitalindex**](http://twitter.com/orbitalindex), [@tectonic](http://twitter.com/tectonic) (Andrew), [@blach](http://twitter.com/blach) (Ben)
 
-Facebook: [**The Orbital Index**](http://facebook.com/orbitalindex)
-
 Web: [Andrew](http://andrewcantino.com), [Ben](http://nicemohawk.com)

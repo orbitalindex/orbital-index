@@ -4,7 +4,7 @@ title: Subscription Confirmed
 
 menu: false
 description: >
-  We usually send out our weekly issue on Tuesdays, so you should be hearing from us soon!
+  We usually send our weekly issue on Wednesday, so you should be hearing from us soon!
 ---
 
 And until then you can explore the [Archives](/archive/).

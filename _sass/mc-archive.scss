@@ -50,8 +50,8 @@
     outline: none;
     text-decoration: none;
   }
-  .mcnImageCardBottomImageContent {
-    background-color: var(--body-bg);
+  .mcnImageCardBottomImageContent, .mcnImageCardBottomContent {
+    background-color: var(--body-bg) !important;
   }
 
   #bodyCell,

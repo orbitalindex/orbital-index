@@ -1,6 +1,6 @@
 #!/bin/bash
 
-curl -O https://celestrak.com/NORAD/elements/starlink.txt
+curl -O https://celestrak.org/NORAD/elements/starlink.txt
 
 ABSPATH=$(cd -- "$(dirname "$BASH_SOURCE")"; pwd -P)
 

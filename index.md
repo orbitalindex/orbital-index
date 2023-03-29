@@ -235,7 +235,7 @@ image: /assets/icons/icon.png
     </tr>
     <tr>
         <td class="mcnTextContent" valign="top" style='padding: 9px 18px;font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);line-height: 150%;' width="546">
-            <p dir="ltr" style='font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);line-height: 150%;'>Terran 1’s nine Aeon engines produce some gorgeous methalox exhaust and <a href="https://en.wikipedia.org/wiki/Shock_diamond" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">mach diamonds</a>.</p>
+            <p dir="ltr" style='font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);line-height: 150%;'>Bear Glacier in Alaska, 2010-2022. Credit: RapidEye & PlanetScope</p>
 
         </td>
     </tr>

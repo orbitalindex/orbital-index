@@ -71,7 +71,7 @@ menu:
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
-  © 2020 The Orbital Index. All rights reserved.
+  © 2023 The Orbital Index. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/

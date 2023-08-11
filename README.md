@@ -20,7 +20,14 @@ A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.
 4. Go to **Settings** again, look for **GitHub Pages**, set **Source** to **master branch**.
 5. Click **Save** and wait for GitHub to set up your new blag.
 
-# Updating the archive
+# Updating the archive automatically
+
+1. Run `bin/process.rb`.
+2. `git add -p`
+3. `git commit -m "Issue ____"`
+4. `git push`
+
+# Updating the archive manually with a new file
 
 1. Place the new archive html file in `archive/_posts/` with a header of:
     ```
@@ -29,7 +36,17 @@ A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.
     title: Issue No. N
     ---
     ```
-2. Run `./bin/filter.rb` to add the `highlight` class to all `table` tags.
+2. Run `./bin/filter.rb`.
+3. `git add -p`
+4. `git commit -m "Issue ____"`
+5. `git push`
+
+# Updating the supporters page
+
+1. Run `./bin/update_supporters.rb`.
+2. `git add -p`
+3. `git commit -m "Updated supporters"`
+4. `git push`
 
 ## What's next?
 * Open files and read the comments

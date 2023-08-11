@@ -46,3 +46,5 @@ _site
 
 .ruby-version
 .ruby-gemset
+
+.env

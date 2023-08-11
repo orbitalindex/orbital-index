@@ -54,6 +54,8 @@ menu:
     url:               /archive/
   - title:             About
     url:               /about/
+  - title:             Supporters
+    url:               /supporters/
   - title:             Space Funding
     url:               /feature/space-entrepreneurship-funding-sources
   - title:             Starlink Coverage

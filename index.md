@@ -187,7 +187,7 @@ image: /assets/icons/icon.png
                         
                         <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;">
                         
-                            <strong id="papers">Papers</strong>
+                            <strong id="weird-papers">Weird Papers. </strong>
 
 <ul>
 	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Chinese researchers proposed an <a href="https://www.universetoday.com/164318/a-robotic-chemist-could-whip-up-the-perfect-batch-of-oxygen-on-mars/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">automated AI-powered robotic chemist for synthesizing catalysts on Mars</a> (<a href="https://www.nature.com/articles/s44160-023-00424-1" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">paper</a>), which would be used in situ to improve the electrolysis of water into hydrogen and oxygen.</li>

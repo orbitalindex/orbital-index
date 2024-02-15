@@ -34,7 +34,7 @@ image: /assets/icons/icon.png
 <a href="https://orbitalindex.com/archive" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;">Issue No. 256</a> | Feb 14, 2024<br>
 <br>
 <br>
-<span style="font-size:32px">🚀 🌍 🛰</span>
+<span style="font-size:32px">🚀 ❤️ 🛰</span>
 </div>
 
 <div id="accel-snackbar" style="left: 50%; transform: translate(-50%, 0px); bottom: 50px;"> </div>
@@ -187,6 +187,42 @@ image: /assets/icons/icon.png
                         
                         <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
                         
+                            <p style="line-height: 150%;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;"><strong id="fuel-our-mission">‹Fuel Our Mission</strong><strong>›</strong> Orbital Index thrives thanks to readers like you. If you like what we do around here, please <a href="https://ko-fi.com/orbitalindex" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;">support us with a monthly membership</a>!</p>
+
+                        </td>
+                    </tr>
+                </tbody>
+</table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock highlight" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
+                    <tbody>
+<tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
+                        
                             <p style="line-height: 150%;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;"><strong id="prefire">PREFIRE.</strong> After PACE, NASA’s next Earth Science mission will be <a href="https://www.nasa.gov/missions/prefire/meet-nasas-twin-spacecraft-headed-to-the-ends-of-the-earth/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">a pair of polar-orbiting cubesats designed to study how the Earth radiates heat into space from the Arctic and Antarctic</a>. Launching two weeks apart in May on <a href="https://www.rocketlabusa.com/updates/rocket-lab-to-launch-climate-change-research-mission-focused-on-arctic-ice-caps-for-nasa/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Electron rockets</a>, the pair will crisscross both polar regions from their high inclination near-polar orbits, measuring how the Earth radiates heat into space from these icy regions. Each satellite carries a thermal infrared spectrometer, originally developed for MRO’s <a href="https://mars.nasa.gov/mro/mission/instruments/mcs/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Mars Climate Sounder</a> instrument, and since miniaturized and updated for the warmer atmosphere and tinier payload requirements of PREFIRE. Polar regions help regulate the planet’s warm topics where most solar radiation is absorbed; circular prevailing weather patterns carry tropical heat to the poles where it is radiated as infrared energy back into space. This polar process hasn’t been directly measured at wavelengths over 15 μm which account for nearly 60% of emitted radiation. Data from PREFIRE about emissions from different polar surface types and conditions will help fill this gap for global climate models—particularly important as polar regions change (<a href="https://journals.ametsoc.org/view/journals/bams/102/7/BAMS-D-20-0155.1.xml" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">paper</a>).</p>
 
                         </td>
@@ -257,7 +293,7 @@ image: /assets/icons/icon.png
                         
                         <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
                         
-                            <p style="line-height: 150%;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;"><strong id="highlighting-some-of-the-cameras-on-im-1">Highlighting some of the cameras on IM-1</strong>. Intuitive Machines’ IM-1 Nova-C <em>Odysseus</em> lunar lander (see our <a href="https://orbitalindex.com/archive/2024-02-07-Issue-255/#next-up-to-the-moon-im-1" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">last issue</a>), which is set to launch today, is carrying a number of space-rated cameras from <a href="https://www.canadensys.com/123-2/161-2/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Canadensys Aerospace Corporation</a>. Affixed directly to Odysseus is the Canadensys dual-camera <a href="https://www.canadensys.com/canadensys-lunar-cameras-to-begin-data-interface-testing-in-preparation-for-deployment-on-intuitive-machines-im-1-lunar-mission/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">360-degree imaging system</a> which will take images of the lunar surface during descent and after landing. Also onboard are two precursor ILO-X cameras, mounted near the top of the lander—again built by Canadensys, this time for the <a href="https://iloa.org/ka-%ca%bbimi-goes-to-the-moon/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">International Lunar Observatory Association (ILOA)</a>. The ILO-X payload is designed to image the sky and Milky Way from the lunar surface, as well as to take part in some check-out observations on the way to the Moon. ILOA has big plans for long-term lunar astronomy with a future ILO-1 mission to either Malapert Mountain or the Shackle Crater rim, two of the <a href="https://www.nasa.gov/news-release/nasa-identifies-candidate-regions-for-landing-next-americans-on-moon/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">13 candidate landing regions also selected for the Artemis III mission</a>. The last of the Canadensys-built cameras onboard are on the 1.5U <a href="https://news.erau.edu/headlines/eagles-complete-cubesat-construction-next-stop-the-moon" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Embry-Riddle EagleCam</a> cubesat which will be flung onto the lunar surface approximately 30 meters / 30 seconds prior to the lander’s touchdown in the hope that at least two of its three 12-megapixel, 180° FOV cameras can catch the dramatic dust plume which will be created during descent. EagleCam also houses two 5-megapixel camera sensors from <a href="https://www.arducam.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Arducam</a>. In 2022, <a href="https://www.canadensys.com/first-in-space-image-released-from-canadensys-aerospace-lunar-imaging-system/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Canadensys released the first pictures</a> from its imaging system aboard the ispace Hakuto-R lunar lander while it was en route to the Moon. <em>(ed., This wasn’t intended as an ad for Canadensys, we were just researching ILO-X and were struck by how many cameras the company has onboard this single mission.)</em></p>
+                            <p style="line-height: 150%;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;"><strong id="highlighting-some-of-the-cameras-on-im-1">Highlighting some of the cameras on IM-1</strong>. Intuitive Machines’ IM-1 Nova-C <em>Odysseus</em> lunar lander (see our <a href="https://orbitalindex.com/archive/2024-02-07-Issue-255/#next-up-to-the-moon-im-1" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">last issue</a>), which is set to <a href="https://www.spacex.com/launches/mission/?missionId=im1" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;">launch tonight</a> (1:05 am EST), is carrying a number of space-rated cameras from <a href="https://www.canadensys.com/123-2/161-2/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Canadensys Aerospace Corporation</a>. Affixed directly to Odysseus is the Canadensys dual-camera <a href="https://www.canadensys.com/canadensys-lunar-cameras-to-begin-data-interface-testing-in-preparation-for-deployment-on-intuitive-machines-im-1-lunar-mission/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">360-degree imaging system</a> which will take images of the lunar surface during descent and after landing. Also onboard are two precursor ILO-X cameras, mounted near the top of the lander—again built by Canadensys, this time for the <a href="https://iloa.org/ka-%ca%bbimi-goes-to-the-moon/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">International Lunar Observatory Association (ILOA)</a>. The ILO-X payload is designed to image the sky and Milky Way from the lunar surface, as well as to take part in some check-out observations on the way to the Moon. ILOA has big plans for long-term lunar astronomy with a future ILO-1 mission to either Malapert Mountain or the Shackle Crater rim, two of the <a href="https://www.nasa.gov/news-release/nasa-identifies-candidate-regions-for-landing-next-americans-on-moon/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">13 candidate landing regions also selected for the Artemis III mission</a>. The last of the Canadensys-built cameras onboard are on the 1.5U <a href="https://news.erau.edu/headlines/eagles-complete-cubesat-construction-next-stop-the-moon" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Embry-Riddle EagleCam</a> cubesat which will be flung onto the lunar surface approximately 30 meters / 30 seconds prior to the lander’s touchdown in the hope that at least two of its three 12-megapixel, 180° FOV cameras can catch the dramatic dust plume which will be created during descent. EagleCam also houses two 5-megapixel camera sensors from <a href="https://www.arducam.com/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Arducam</a>. In 2022, <a href="https://www.canadensys.com/first-in-space-image-released-from-canadensys-aerospace-lunar-imaging-system/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Canadensys released the first pictures</a> from its imaging system aboard the ispace Hakuto-R lunar lander while it was en route to the Moon. <em>(ed., This wasn’t intended as an ad for Canadensys, we were just researching ILO-X and were struck by how many cameras the company has onboard this single mission.)</em></p>
 
                         </td>
                     </tr>
@@ -280,7 +316,7 @@ image: /assets/icons/icon.png
         <tr>
             <td class="mcnImageCardBlockInner" valign="top" style="padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
                 
-<table align="right" border="0" cellpadding="0" cellspacing="0" class="mcnImageCardBottomContent highlight" width="100%" style="background-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnImageCardBottomContent highlight" width="100%" style="background-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
     <tbody>
 <tr>
         <td class="mcnImageCardBottomImageContent" align="center" valign="top" style="padding-top: 0px;padding-right: 0px;padding-bottom: 0;padding-left: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
@@ -296,7 +332,7 @@ image: /assets/icons/icon.png
     </tr>
     <tr>
         <td class="mcnTextContent" valign="top" style='padding: 9px 18px;font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);line-height: 150%;' width="546">
-            <p style='font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);line-height: 150%;'>ILO-X wide field-of-view imager. Credits: Canadensys Aerospace Corporation</p>
+            <p style='font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);line-height: 150%;'>ILO-X wide field-of-view imager. Credit: Canadensys Aerospace Corp.</p>
 
         </td>
     </tr>
@@ -397,42 +433,6 @@ image: /assets/icons/icon.png
                     <tbody>
 <tr>
                         
-                        <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;">
-                        
-                            <p style="line-height: 150%;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;"><strong id="fuel-our-mission">‹Fuel Our Mission</strong><strong>›</strong> Orbital Index thrives thanks to readers like you. If you value our content, consider <a href="https://ko-fi.com/orbitalindex" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;">supporting us with a monthly membership</a>!</p>
-
-                        </td>
-                    </tr>
-                </tbody>
-</table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
-            </td>
-        </tr>
-    </tbody>
-</table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock highlight" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-    <tbody class="mcnTextBlockOuter">
-        <tr>
-            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
-			    
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer highlight">
-                    <tbody>
-<tr>
-                        
                         <td valign="top" class="mcnTextContent" style="padding: 0px 18px 9px;line-height: 150%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);font-family: 'Lora', Georgia, 'Times New Roman', serif;font-size: 16px;text-align: left;position: relative;">
                         
                             <strong id="etc">Etc.</strong>
@@ -478,7 +478,8 @@ image: /assets/icons/icon.png
     <tbody>
 <tr>
         <td class="mcnTextContent" valign="top" style='padding: 18px 18px 0px;font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: var(--body-color);line-height: 150%;' width="546">
-            <p style='font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);line-height: 150%;'><span style="font-size:16px">Happy Valentine's Day! <a href="https://www.skyatnightmagazine.com/astrophotography/nebulae/heart-soul-nebula" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">The BBC Sky at Night Magazine has dozens of images</a> of the <a href="https://en.wikipedia.org/wiki/Heart_Nebula" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Heart Nebula</a>, also known as IC 1805, located 7,500 lightyears away in Cassiopeia. Credit: <a href="https://en.wikipedia.org/wiki/Heart_Nebula#/media/File:Heart-nebula.jpg" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">By Byronmhome - Own work, CC BY-SA 4.0</a></span></p>
+            <p style='font-family: Lora, Georgia, "Times New Roman", serif;font-size: 14px;font-weight: normal;text-align: center;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--body-color);line-height: 150%;'><span style="font-size:16px">Happy Valentine's Day! <a href="https://www.skyatnightmagazine.com/astrophotography/nebulae/heart-soul-nebula" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">The BBC Sky at Night Magazine has dozens of images</a> of the <a href="https://en.wikipedia.org/wiki/Heart_Nebula" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">Heart Nebula</a>, also known as IC 1805, located 7,500 lightyears away in Cassiopeia. 💖<br>
+Credit: <a href="https://en.wikipedia.org/wiki/Heart_Nebula#/media/File:Heart-nebula.jpg" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: var(--mc-link-color);font-weight: normal;text-decoration: underline;" target="_blank">By Byronmhome - Own work, CC BY-SA 4.0</a></span></p>
 
         </td>
     </tr>

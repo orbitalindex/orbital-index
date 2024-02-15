@@ -1,6 +1,8 @@
 #!/bin/bash
 
-curl -O https://celestrak.org/NORAD/elements/starlink.txt
+# curl -O https://celestrak.org/NORAD/elements/starlink.txt
+
+curl "https://celestrak.org/NORAD/elements/gp.php?GROUP=starlink&FORMAT=tle" -o starlink.txt
 
 ABSPATH=$(cd -- "$(dirname "$BASH_SOURCE")"; pwd -P)
 

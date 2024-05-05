@@ -48,3 +48,4 @@ _site
 .ruby-gemset
 
 .env
+plain_text

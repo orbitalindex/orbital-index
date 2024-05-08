@@ -41,7 +41,7 @@ else
 end
 
 file_name = "archive/_posts/#{formatted_date}-Issue-#{input_issue}.html"
-if File.exists?(file_name)
+if File.exist?(file_name)
   puts "File #{file_name}.md already exists."
   exit 1
 end

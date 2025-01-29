@@ -89,7 +89,7 @@ def process(data, force_header: nil, format_for_frontpage: false)
   doc.css("a.para").each(&:remove)
 
   doc.css("td.mcnTextContent > strong:nth-child(1), td.mcnTextContent > p:not([style*=center]) > strong:nth-child(1)").each do |node|
-    if node.content !~ /[\w\d]+/
+    if node.content !~ /[\w\d‹›]+/
       node.remove
     end
   end

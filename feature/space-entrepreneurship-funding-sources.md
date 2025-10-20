@@ -22,6 +22,7 @@ Here's the funding source breakdown:
 - [Venture Capital](#venture-capital)
 - [Government Entities & Foundations](#government-entities--foundations)
 - [Other](#other)
+  - [Non-Dilutive Equipment Financing/Leasing](#leasing)
   - [Research Funding](#research-funding)
   - [Challenges / Hackathons](#challenges--hackathons)
   - [Conferences / Pitch Events](#conferences--pitch-events)
@@ -283,6 +284,10 @@ Items marked with a 🚀 are space-specific!
   * [Space Florida](https://www.spaceflorida.gov/) 🚀
 
 ## Other
+
+### Leasing
+
+* [CSC Leasing](https://www.cscleasing.com/) - CSC Leasing is a leading provider of technology and equipment leasing with significant experience supporting clients in the space science industry.
 
 ### Research Funding
 

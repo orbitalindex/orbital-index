@@ -19,6 +19,7 @@ url = URI("https://api.airtable.com/v0/appjhx74xRL9xFMjy/Subscribers?maxRecords=
 
 http = Net::HTTP.new(url.host, url.port)
 http.use_ssl = true
+http.verify_mode = OpenSSL::SSL::VERIFY_NONE
 request = Net::HTTP::Get.new(url)
 request["Authorization"] = "Bearer #{token}"
 

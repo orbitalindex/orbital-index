@@ -9,7 +9,7 @@ title: About
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  The Orbital Index is a concise and technical newsletter from [Andrew Cantino](https://twitter.com/tectonic) and [Ben Lachman](https://twitter.com/blach) highlighting developments in space science and exploration, NewSpace startups, and (mostly) related content. It will arrive in your inbox weekly.
+  The Orbital Index was a concise and technical newsletter from [Andrew Cantino](https://twitter.com/tectonic) and [Ben Lachman](https://twitter.com/blach) highlighting developments in space science and exploration, NewSpace startups, and (mostly) related content. We ended weekly publication on Jan 7, 2026 but may continue sporadic posts at <a href="https://orbitalindexextendedmission.substack.com/">Orbital Index: Extended Mission</a>, please subscribe there!
 
 # You can show the description on the page by deleting this line:
 hide_description: false
@@ -22,9 +22,9 @@ menu: true
 order: 3
 ---
 
-We started writing The Orbital Index as a way to share some of the most interesting articles and resources we kept running across while pursuing our personal interests in space and space startups. We ended up sharing a lot of these on a Slack channel we were both part of and eventually ended up collaborating to write the [newsletter](/archive/) you're now (hopefully) reading each week.
+We started writing The Orbital Index as a way to share some of the most interesting articles and resources we kept running across while pursuing our personal interests in space and space startups. We ended up sharing a lot of these on a Slack channel we were both part of and eventually ended up collaborating to write the [newsletter](/archive/).
 
-You can find us in a bunch other places as well:
+You can find us in a bunch of other places as well:
 
 Twitter: [**@orbitalindex**](http://twitter.com/orbitalindex), [@tectonic](http://twitter.com/tectonic) (Andrew), [@blach](http://twitter.com/blach) (Ben)
 
